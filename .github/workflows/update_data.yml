@@ -1,0 +1,31 @@
+name: Opdater Skat Data
+
+on:
+  schedule:
+    - cron: '0 3 * * *' # Kører automatisk hver nat kl. 03:00
+  workflow_dispatch: # Giver dig en knap, så du kan starte den manuelt
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+          
+      - name: Install dependencies
+        run: pip install pandas requests openpyxl
+        
+      - name: Run update script
+        run: python update_list.py
+        
+      - name: Commit and push if changed
+        run: |
+          git config --global user.name 'Github Action'
+          git config --global user.email 'action@github.com'
+          git add data.json
+          git commit -m "Update Skat data" || exit 0
+          git push
