@@ -3,10 +3,10 @@ import requests
 import json
 from io import BytesIO
 from datetime import datetime
+import pytz
 from bs4 import BeautifulSoup
-import re
 
-# Den officielle landingsside
+# Den officielle landingsside hvor linket findes
 SOURCE_PAGE_URL = "https://skat.dk/erhverv/ekapital/vaerdipapirer/beviser-og-aktier-i-investeringsforeninger-og-selskaber-ifpa"
 
 def find_excel_url(page_url):
@@ -22,9 +22,9 @@ def find_excel_url(page_url):
         
         for link in links:
             href = link['href']
-            # Vi kigger efter links der slutter på .xlsx og indeholder 'abis' eller 'liste'
+            # Vi kigger efter links der slutter på .xlsx og indeholder relevante ord
             if href.endswith('.xlsx') and ('abis' in href.lower() or 'liste' in href.lower()):
-                # Hvis linket er relativt (starter med /), sætter vi domænet foran
+                # Håndter relative links (hvis de starter med /)
                 if href.startswith('/'):
                     return f"https://skat.dk{href}"
                 return href
@@ -50,33 +50,59 @@ def download_and_convert():
     
     all_sheets_data = []
     for sheet_name in excel_file.sheet_names:
-        if "forside" in sheet_name.lower(): continue
+        # Spring altid forsiden over
+        if "forside" in sheet_name.lower(): 
+            continue
         
-        # Find header-række dynamisk som før
+        # Find header-række dynamisk (Skat har ofte titler i de øverste rækker)
         raw_df = excel_file.parse(sheet_name, header=None)
         header_row_index = 0
+        found_header = False
+        
         for i, row in raw_df.iterrows():
             row_str = row.astype(str).values
             if any('ISIN' in s.upper() for s in row_str) or any('NAVN' in s.upper() for s in row_str):
                 header_row_index = i
+                found_header = True
                 break
         
-        df = excel_file.parse(sheet_name, skiprows=header_row_index)
-        all_sheets_data.append(df)
+        if found_header:
+            df = excel_file.parse(sheet_name, skiprows=header_row_index)
+            # Rens kolonnenavne for linjeskift
+            df.columns = [str(c).replace('\n', ' ').strip() for c in df.columns]
+            all_sheets_data.append(df)
 
+    if not all_sheets_data:
+        print("Ingen data fundet i arkene.")
+        return
+
+    # Saml alle ark til ét DataFrame
     full_df = pd.concat(all_sheets_data, ignore_index=True)
     
-    # Rensning
-    full_df = full_df.dropna(how='all').drop_duplicates()
+    # --- RENSNING ---
+    # 1. Fjern helt tomme rækker
+    full_df = full_df.dropna(how='all')
+    
+    # 2. Fjern identiske dubletter
+    full_df = full_df.drop_duplicates()
+    
+    # 3. Fjern dubletter baseret på ISIN-kode (behold den nyeste)
     isin_col = next((c for c in full_df.columns if 'ISIN' in str(c).upper()), None)
     if isin_col:
         full_df = full_df.drop_duplicates(subset=[isin_col], keep='last')
     
+    # 4. Erstat NaN med tom streng (vigtigt for JSON formatet)
     full_df = full_df.fillna('')
+
+    # --- TID OG METADATA ---
+    # Sæt tidszonen til dansk tid (Europe/Copenhagen)
+    dk_tz = pytz.timezone('Europe/Copenhagen')
+    now_dk = datetime.now(dk_tz)
+    last_updated_str = now_dk.strftime("%d. %B %Y kl. %H:%M")
 
     output = {
         "metadata": {
-            "last_updated": datetime.now().strftime("%d. %B %Y kl. %H:%M"),
+            "last_updated": last_updated_str,
             "source_url": SOURCE_PAGE_URL,
             "excel_url": excel_url,
             "description": "Automatisk udtrukket fra Skats IFPA-liste."
@@ -84,10 +110,11 @@ def download_and_convert():
         "records": full_df.to_dict(orient='records')
     }
 
+    # Gem som data.json
     with open('data.json', 'w', encoding='utf-8') as f:
         json.dump(output, f, ensure_ascii=False, indent=2)
     
-    print(f"Succes! Database opdateret med data fra {excel_url}")
+    print(f"Succes! Database opdateret kl. {last_updated_str} med {len(output['records'])} unikke rækker.")
 
 if __name__ == "__main__":
     download_and_convert()
