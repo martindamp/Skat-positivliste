@@ -29,7 +29,6 @@
             try {
                 const response = await fetch('data.json?t=' + Date.now());
                 const json = await response.json();
-                // Understøtter både den gamle flade struktur og den nye med .records
                 this.allData = json.records || json;
                 this.metadata = json.metadata || { last_updated: 'Ukendt' };
                 this.loading = false;
@@ -54,7 +53,7 @@
 
             <div class="relative mb-8" x-show="!loading" x-cloak>
                 <input type="text" x-model="query" 
-                       placeholder="Søg intelligent (f.eks. 'iShares 600')..." 
+                       placeholder="Søg (f.eks. 'IShares 600')..." 
                        class="w-full p-4 border-2 border-blue-200 rounded-lg shadow-sm focus:border-blue-500 focus:outline-none text-lg transition-colors">
             </div>
 
