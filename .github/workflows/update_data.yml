@@ -2,8 +2,8 @@ name: Opdater Skat Data
 
 on:
   schedule:
-    - cron: '0 3 * * *' # Kører automatisk hver nat kl. 03:00
-  workflow_dispatch: # Giver dig en knap, så du kan starte den manuelt
+    - cron: '0 3 * * *' # Kører hver nat kl. 03:00
+  workflow_dispatch: # Giver dig knappen "Run workflow" i GitHub Actions
 
 jobs:
   build:
@@ -17,7 +17,8 @@ jobs:
           python-version: '3.10'
           
       - name: Install dependencies
-        run: pip install pandas requests openpyxl
+        # Vi har tilføjet beautifulsoup4 og lxml her:
+        run: pip install pandas requests openpyxl beautifulsoup4 lxml
         
       - name: Run update script
         run: python update_list.py
