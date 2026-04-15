@@ -17,13 +17,15 @@
         get filteredData() {
             if (!this.query || this.query.length < 2) return [];
             
-            const lowQuery = this.query.toLowerCase();
+            // Split søgestrengen op i enkelte ord (f.eks. ["ishares", "600"])
+            const searchTerms = this.query.toLowerCase().split(' ').filter(t => t.length > 0);
             
             return this.allData.filter(row => {
-                // Vi tjekker alle værdier i rækken
-                return Object.values(row).some(val => 
-                    String(val).toLowerCase().includes(lowQuery)
-                );
+                // Konverter alle værdier i rækken til én stor tekststreng for hurtig gennemsøgning
+                const rowContent = Object.values(row).join(' ').toLowerCase();
+                
+                // Tjek om HVERT søgeord findes et eller andet sted i rækken (AND-logik)
+                return searchTerms.every(term => rowContent.includes(term));
             }).slice(0, 100);
         },
 
