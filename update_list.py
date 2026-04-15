@@ -17,14 +17,14 @@ def find_excel_url(page_url):
         response.raise_for_status()
         soup = BeautifulSoup(response.text, 'html.parser')
         
-        # Vi leder efter alle <a> tags (links)
+        # Vi leder efter alle <a> tags
         links = soup.find_all('a', href=True)
         
         for link in links:
             href = link['href']
-            # Vi kigger efter links der slutter på .xlsx og indeholder relevante ord
+            # Vi kigger efter links der slutter på .xlsx og indeholder abis eller liste
             if href.endswith('.xlsx') and ('abis' in href.lower() or 'liste' in href.lower()):
-                # Håndter relative links (hvis de starter med /)
+                # Håndter relative links
                 if href.startswith('/'):
                     return f"https://skat.dk{href}"
                 return href
@@ -49,12 +49,13 @@ def download_and_convert():
     excel_file = pd.ExcelFile(BytesIO(response.content))
     
     all_sheets_data = []
+    # iterer over alle sheets, et for hvert år
     for sheet_name in excel_file.sheet_names:
         # Spring altid forsiden over
         if "forside" in sheet_name.lower(): 
             continue
         
-        # Find header-række dynamisk (Skat har ofte titler i de øverste rækker)
+        # Find header-række dynamisk
         raw_df = excel_file.parse(sheet_name, header=None)
         header_row_index = 0
         found_header = False
@@ -79,23 +80,21 @@ def download_and_convert():
     # Saml alle ark til ét DataFrame
     full_df = pd.concat(all_sheets_data, ignore_index=True)
     
-    # --- RENSNING ---
-    # 1. Fjern helt tomme rækker
+    # Fjern helt tomme rækker
     full_df = full_df.dropna(how='all')
     
-    # 2. Fjern identiske dubletter
+    # Fjern dubletter
     full_df = full_df.drop_duplicates()
     
-    # 3. Fjern dubletter baseret på ISIN-kode (behold den nyeste)
+    # Fjern dubletter baseret på ISIN-kode
     isin_col = next((c for c in full_df.columns if 'ISIN' in str(c).upper()), None)
     if isin_col:
         full_df = full_df.drop_duplicates(subset=[isin_col], keep='last')
     
-    # 4. Erstat NaN med tom streng (vigtigt for JSON formatet)
+    # Erstat NaN med tom streng
     full_df = full_df.fillna('')
 
-    # --- TID OG METADATA ---
-    # Sæt tidszonen til dansk tid (Europe/Copenhagen)
+    # Sæt tidszonen til dansk tid
     dk_tz = pytz.timezone('Europe/Copenhagen')
     now_dk = datetime.now(dk_tz)
     last_updated_str = now_dk.strftime("%d. %B %Y kl. %H:%M")
