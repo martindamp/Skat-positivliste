@@ -2,21 +2,57 @@ import pandas as pd
 import requests
 import json
 from io import BytesIO
+from datetime import datetime
+from bs4 import BeautifulSoup
+import re
 
-URL = "https://skat.dk/media/5bldctyv/marts-2026-abis-liste-2021-2026.xlsx"
+# Den officielle landingsside
+SOURCE_PAGE_URL = "https://skat.dk/erhverv/ekapital/vaerdipapirer/beviser-og-aktier-i-investeringsforeninger-og-selskaber-ifpa"
+
+def find_excel_url(page_url):
+    """Scraper landingssiden for at finde det aktuelle link til Excel-filen."""
+    headers = {'User-Agent': 'Mozilla/5.0'}
+    try:
+        response = requests.get(page_url, headers=headers, timeout=15)
+        response.raise_for_status()
+        soup = BeautifulSoup(response.text, 'html.parser')
+        
+        # Vi leder efter alle <a> tags (links)
+        links = soup.find_all('a', href=True)
+        
+        for link in links:
+            href = link['href']
+            # Vi kigger efter links der slutter på .xlsx og indeholder 'abis' eller 'liste'
+            if href.endswith('.xlsx') and ('abis' in href.lower() or 'liste' in href.lower()):
+                # Hvis linket er relativt (starter med /), sætter vi domænet foran
+                if href.startswith('/'):
+                    return f"https://skat.dk{href}"
+                return href
+                
+        return None
+    except Exception as e:
+        print(f"Fejl ved scraping af landingsside: {e}")
+        return None
 
 def download_and_convert():
+    print(f"Leder efter nyeste Excel-fil på {SOURCE_PAGE_URL}...")
+    excel_url = find_excel_url(SOURCE_PAGE_URL)
+    
+    if not excel_url:
+        print("Kritisk fejl: Kunne ikke finde et Excel-link på siden.")
+        return
+
+    print(f"Fandt fil: {excel_url}")
+    
     headers = {'User-Agent': 'Mozilla/5.0'}
-    response = requests.get(URL, headers=headers)
+    response = requests.get(excel_url, headers=headers)
     excel_file = pd.ExcelFile(BytesIO(response.content))
     
     all_sheets_data = []
-    
     for sheet_name in excel_file.sheet_names:
-        if "forside" in sheet_name.lower():
-            continue
-            
-        # Læs arket og find overskrifterne automatisk
+        if "forside" in sheet_name.lower(): continue
+        
+        # Find header-række dynamisk som før
         raw_df = excel_file.parse(sheet_name, header=None)
         header_row_index = 0
         for i, row in raw_df.iterrows():
@@ -26,56 +62,6 @@ def download_and_convert():
                 break
         
         df = excel_file.parse(sheet_name, skiprows=header_row_index)
-        all_sheets_data.append(df)
-
-    # Saml alle ark til ét DataFrame
-    full_df = pd.concat(all_sheets_data, ignore_index=True)
-    
-    # --- RENSNING AF DUBLETTER START ---
-    
-    # 1. Fjern helt tomme rækker
-    full_df = full_df.dropna(how='all')
-    
-    # 2. Fjern rækker der er 100% identiske
-    full_df = full_df.drop_duplicates()
-    
-    # 3. Fjern dubletter baseret på ISIN-kode (hvis ISIN findes)
-    # Vi beholder den sidste forekomst, da den ofte er den mest opdaterede
-    isin_col = next((c for c in full_df.columns if 'ISIN' in str(c).upper()), None)
-    if isin_col:
-        full_df = full_df.drop_duplicates(subset=[isin_col], keep='last')
-    
-    # 4. Erstat NaN med tom streng for JSON-kompatibilitet
-    full_df = full_df.fillna('')
-    
-    # --- RENSNING AF DUBLETTER SLUT ---
-
-    combined_data = full_df.to_dict(orient='records')
-
-    with open('data.json', 'w', encoding='utf-8') as f:
-        json.dump(combined_data, f, ensure_ascii=False, indent=2)
-    
-    print(f"Succes! Gemte {len(combined_data)} unikke rækker i data.json")
-
-if __name__ == "__main__":
-    download_and_convert()
-import pandas as pd
-import requests
-import json
-from io import BytesIO
-from datetime import datetime
-
-URL = "https://skat.dk/media/5bldctyv/marts-2026-abis-liste-2021-2026.xlsx"
-
-def download_and_convert():
-    headers = {'User-Agent': 'Mozilla/5.0'}
-    response = requests.get(URL, headers=headers)
-    excel_file = pd.ExcelFile(BytesIO(response.content))
-    
-    all_sheets_data = []
-    for sheet_name in excel_file.sheet_names:
-        if "forside" in sheet_name.lower(): continue
-        df = excel_file.parse(sheet_name)
         all_sheets_data.append(df)
 
     full_df = pd.concat(all_sheets_data, ignore_index=True)
@@ -88,12 +74,12 @@ def download_and_convert():
     
     full_df = full_df.fillna('')
 
-    # Ny struktur: Metadata + Data
     output = {
         "metadata": {
             "last_updated": datetime.now().strftime("%d. %B %Y kl. %H:%M"),
-            "source_url": URL,
-            "description": "Baseret på Skats liste over beviser og aktier i investeringsforeninger og selskaber (IFPA)."
+            "source_url": SOURCE_PAGE_URL,
+            "excel_url": excel_url,
+            "description": "Automatisk udtrukket fra Skats IFPA-liste."
         },
         "records": full_df.to_dict(orient='records')
     }
@@ -101,7 +87,7 @@ def download_and_convert():
     with open('data.json', 'w', encoding='utf-8') as f:
         json.dump(output, f, ensure_ascii=False, indent=2)
     
-    print(f"Succes! Data opdateret {output['metadata']['last_updated']}")
+    print(f"Succes! Database opdateret med data fra {excel_url}")
 
 if __name__ == "__main__":
     download_and_convert()
