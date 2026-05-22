@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "21. May 2026 kl. 08:53",
+    "last_updated": "22. May 2026 kl. 08:49",
     "source_url": "https://skat.dk/erhverv/ekapital/vaerdipapirer/beviser-og-aktier-i-investeringsforeninger-og-selskaber-ifpa",
-    "excel_url": "https://skat.dk/media/kxzpjrbl/april-2026-abis-liste-2021-2026.xlsx",
+    "excel_url": "https://skat.dk/media/r1dn5su0/maj-2026-abis-liste-til-offentliggoerelse-2021-2026.xlsx",
     "description": "Automatisk udtrukket fra Skats IFPA-liste."
   },
   "records": [
@@ -1628,6 +1628,18 @@
     },
     {
       "Skattemæssigt hjemsted/Tax residence": "Denmark (DK)",
+      "ISIN-kode/-Code": "DK0064980866",
+      "Navn andelsklasse/Name Shareclass": "Investeringsforeningen BankInvest USA Aktier Indeks Akk.",
+      "LEI-kode/-Code": "6488QR5J5N88Z29YI845",
+      "CVR/SE/TIN": 13561869,
+      "Navn afdeling/Name Sub-fund": "INVESTERINGSFORENINGEN BANKINVEST USA Aktier Indeks Akk.",
+      "TIN": "[tom]",
+      "Navn/Name": "[tom]",
+      "Registrerede år/Registered": 2026,
+      "Ikke registrerede år/Deregistered": "2020,2021,2022,2023,2024,2025"
+    },
+    {
+      "Skattemæssigt hjemsted/Tax residence": "Denmark (DK)",
       "ISIN-kode/-Code": "DK0064754345",
       "Navn andelsklasse/Name Shareclass": "Investeringsforeningen BankInvest Engros Temafond Akk.",
       "LEI-kode/-Code": "[tom]",
@@ -2201,30 +2213,6 @@
       "Navn/Name": "[tom]",
       "Registrerede år/Registered": "2020,2021,2022,2023,2024,2025,2026",
       "Ikke registrerede år/Deregistered": ""
-    },
-    {
-      "Skattemæssigt hjemsted/Tax residence": "Finland (FI)",
-      "ISIN-kode/-Code": "FI4000410501",
-      "Navn andelsklasse/Name Shareclass": "Nordea Global Enhanced I tillväxt SEK",
-      "LEI-kode/-Code": "549300DGV3UF00SS9O26",
-      "CVR/SE/TIN": "[tom]",
-      "Navn afdeling/Name Sub-fund": "Nordea Global Enhanced Fund",
-      "TIN": "[tom]",
-      "Navn/Name": "[tom]",
-      "Registrerede år/Registered": "2021,2022,2023,2024,2025,2026",
-      "Ikke registrerede år/Deregistered": 2020
-    },
-    {
-      "Skattemæssigt hjemsted/Tax residence": "Finland (FI)",
-      "ISIN-kode/-Code": "FI4000410527",
-      "Navn andelsklasse/Name Shareclass": "Nordea North American Enhanced I tillväxt SEK",
-      "LEI-kode/-Code": "549300W7839USWFU3D94",
-      "CVR/SE/TIN": "[tom]",
-      "Navn afdeling/Name Sub-fund": "Nordea North American Enhanced Fund",
-      "TIN": "[tom]",
-      "Navn/Name": "[tom]",
-      "Registrerede år/Registered": "2021,2022,2023,2024,2025,2026",
-      "Ikke registrerede år/Deregistered": 2020
     },
     {
       "Skattemæssigt hjemsted/Tax residence": "Finland (FI)",
@@ -2936,6 +2924,18 @@
     },
     {
       "Skattemæssigt hjemsted/Tax residence": "Ireland (IE)",
+      "ISIN-kode/-Code": "IE0000N55FP4",
+      "Navn andelsklasse/Name Shareclass": "Class EUR (Accumulating)",
+      "LEI-kode/-Code": "529900NIGH8UM1MV1278",
+      "CVR/SE/TIN": "[tom]",
+      "Navn afdeling/Name Sub-fund": "iShares MSCI Europe Small Cap UCITS ETF",
+      "TIN": "[tom]",
+      "Navn/Name": "",
+      "Registrerede år/Registered": 2026,
+      "Ikke registrerede år/Deregistered": "2020,2021,2022,2023,2024,2025"
+    },
+    {
+      "Skattemæssigt hjemsted/Tax residence": "Ireland (IE)",
       "ISIN-kode/-Code": "IE000VCYXLY9",
       "Navn andelsklasse/Name Shareclass": "USD Acc",
       "LEI-kode/-Code": "[tom]",
@@ -2967,6 +2967,18 @@
       "Navn afdeling/Name Sub-fund": "iShares Quantum Computing UCITS ETF",
       "TIN": "[tom]",
       "Navn/Name": "iShares IV Plc",
+      "Registrerede år/Registered": 2026,
+      "Ikke registrerede år/Deregistered": "2020,2021,2022,2023,2024,2025"
+    },
+    {
+      "Skattemæssigt hjemsted/Tax residence": "Ireland (IE)",
+      "ISIN-kode/-Code": "IE000E47O2D3",
+      "Navn andelsklasse/Name Shareclass": "Class GBP Hedged (Distributing)",
+      "LEI-kode/-Code": "5299008DW2F6VTFUDN69",
+      "CVR/SE/TIN": "[tom]",
+      "Navn afdeling/Name Sub-fund": "iShares U.S. Equity High Income Active UCITS ETF",
+      "TIN": "[tom]",
+      "Navn/Name": "iShares III Plc",
       "Registrerede år/Registered": 2026,
       "Ikke registrerede år/Deregistered": "2020,2021,2022,2023,2024,2025"
     },
@@ -10184,6 +10196,18 @@
     },
     {
       "Skattemæssigt hjemsted/Tax residence": "Ireland (IE)",
+      "ISIN-kode/-Code": "IE000JSMYP54",
+      "Navn andelsklasse/Name Shareclass": "Class X GBP Hedged (Acc)",
+      "LEI-kode/-Code": "5493002MQ0TZR3NYON05",
+      "CVR/SE/TIN": "[tom]",
+      "Navn afdeling/Name Sub-fund": "BlackRock Advantage World Equity Fund",
+      "TIN": "[tom]",
+      "Navn/Name": "Blackrock Funds I ICAV",
+      "Registrerede år/Registered": 2026,
+      "Ikke registrerede år/Deregistered": "2020,2021,2022,2023,2024,2025"
+    },
+    {
+      "Skattemæssigt hjemsted/Tax residence": "Ireland (IE)",
       "ISIN-kode/-Code": "IE000CNSFAR2",
       "Navn andelsklasse/Name Shareclass": "Amundi Core MSCI World UCITS ETF UCITS ETF Dist",
       "LEI-kode/-Code": "[tom]",
@@ -10443,6 +10467,18 @@
       "Navn afdeling/Name Sub-fund": "SPDR MSCI All Country World UCITS ETF",
       "TIN": "[tom]",
       "Navn/Name": "SSGA SPDR ETFs Europe I plc",
+      "Registrerede år/Registered": 2026,
+      "Ikke registrerede år/Deregistered": "2020,2021,2022,2023,2024,2025"
+    },
+    {
+      "Skattemæssigt hjemsted/Tax residence": "Ireland (IE)",
+      "ISIN-kode/-Code": "IE0002HWPU75",
+      "Navn andelsklasse/Name Shareclass": "JURY Global High Dividend UCITS ETF - Distributing",
+      "LEI-kode/-Code": "2549009O5RBII5T2QV55",
+      "CVR/SE/TIN": "[tom]",
+      "Navn afdeling/Name Sub-fund": "JURY Global High Dividend UCITS ETF",
+      "TIN": "[tom]",
+      "Navn/Name": "HANetf ICAV",
       "Registrerede år/Registered": 2026,
       "Ikke registrerede år/Deregistered": "2020,2021,2022,2023,2024,2025"
     },
@@ -27248,6 +27284,66 @@
     },
     {
       "Skattemæssigt hjemsted/Tax residence": "Luxembourg (LU)",
+      "ISIN-kode/-Code": "LU3362314935",
+      "Navn andelsklasse/Name Shareclass": "Nordea 2 - BetaPlus Enhanced Euroland Sustainable Equity Fund - BI - EUR",
+      "LEI-kode/-Code": "636700IRNSN7YSFAYC27",
+      "CVR/SE/TIN": "2016 45 00 889",
+      "Navn afdeling/Name Sub-fund": "Nordea 2 - BetaPlus Enhanced Euroland Sustainable Equity Fund",
+      "TIN": "2016 45 00 889",
+      "Navn/Name": "Nordea 2, SICAV",
+      "Registrerede år/Registered": 2026,
+      "Ikke registrerede år/Deregistered": "2020,2021,2022,2023,2024,2025"
+    },
+    {
+      "Skattemæssigt hjemsted/Tax residence": "Luxembourg (LU)",
+      "ISIN-kode/-Code": "LU3362314851",
+      "Navn andelsklasse/Name Shareclass": "Nordea 2 - BetaPlus Enhanced Euroland Sustainable Equity Fund - BP - EUR",
+      "LEI-kode/-Code": "636700IRNSN7YSFAYC27",
+      "CVR/SE/TIN": "2016 45 00 889",
+      "Navn afdeling/Name Sub-fund": "Nordea 2 - BetaPlus Enhanced Euroland Sustainable Equity Fund",
+      "TIN": "2016 45 00 889",
+      "Navn/Name": "Nordea 2, SICAV",
+      "Registrerede år/Registered": 2026,
+      "Ikke registrerede år/Deregistered": "2020,2021,2022,2023,2024,2025"
+    },
+    {
+      "Skattemæssigt hjemsted/Tax residence": "Luxembourg (LU)",
+      "ISIN-kode/-Code": "LU3362314778",
+      "Navn andelsklasse/Name Shareclass": "Nordea 2 - BetaPlus Enhanced Euroland Sustainable Equity Fund - X - EUR",
+      "LEI-kode/-Code": "636700IRNSN7YSFAYC27",
+      "CVR/SE/TIN": "2016 45 00 889",
+      "Navn afdeling/Name Sub-fund": "Nordea 2 - BetaPlus Enhanced Euroland Sustainable Equity Fund",
+      "TIN": "2016 45 00 889",
+      "Navn/Name": "Nordea 2, SICAV",
+      "Registrerede år/Registered": 2026,
+      "Ikke registrerede år/Deregistered": "2020,2021,2022,2023,2024,2025"
+    },
+    {
+      "Skattemæssigt hjemsted/Tax residence": "Luxembourg (LU)",
+      "ISIN-kode/-Code": "LU3362314695",
+      "Navn andelsklasse/Name Shareclass": "Nordea 2 - BetaPlus Enhanced Euroland Sustainable Equity Fund - BI - DKK",
+      "LEI-kode/-Code": "636700IRNSN7YSFAYC27",
+      "CVR/SE/TIN": "2016 45 00 889",
+      "Navn afdeling/Name Sub-fund": "Nordea 2 - BetaPlus Enhanced Euroland Sustainable Equity Fund",
+      "TIN": "2016 45 00 889",
+      "Navn/Name": "Nordea 2, SICAV",
+      "Registrerede år/Registered": 2026,
+      "Ikke registrerede år/Deregistered": "2020,2021,2022,2023,2024,2025"
+    },
+    {
+      "Skattemæssigt hjemsted/Tax residence": "Luxembourg (LU)",
+      "ISIN-kode/-Code": "LU3367696393",
+      "Navn andelsklasse/Name Shareclass": "Nordea 2 - BetaPlus Enhanced Euroland Sustainable Equity Fund - X - NOK",
+      "LEI-kode/-Code": "636700IRNSN7YSFAYC27",
+      "CVR/SE/TIN": "2016 45 00 889",
+      "Navn afdeling/Name Sub-fund": "Nordea 2 - BetaPlus Enhanced Euroland Sustainable Equity Fund",
+      "TIN": "2016 45 00 889",
+      "Navn/Name": "Nordea 2, SICAV",
+      "Registrerede år/Registered": 2026,
+      "Ikke registrerede år/Deregistered": "2020,2021,2022,2023,2024,2025"
+    },
+    {
+      "Skattemæssigt hjemsted/Tax residence": "Luxembourg (LU)",
       "ISIN-kode/-Code": "LU3203959849",
       "Navn andelsklasse/Name Shareclass": "Nordea 2 - BetaPlus Enhanced North American Sustainable Equity Fund - BP - EUR",
       "LEI-kode/-Code": "549300CE1UG4IV657J56",
@@ -29503,6 +29599,18 @@
       "Ikke registrerede år/Deregistered": "2020,2021,2024"
     },
     {
+      "Skattemæssigt hjemsted/Tax residence": "Ireland (IE)",
+      "ISIN-kode/-Code": "IE000QYDXKV5",
+      "Navn andelsklasse/Name Shareclass": "VanEck Morningstar Developed Markets ex-US Dividend Leaders UCITS ETF USD A",
+      "LEI-kode/-Code": "[tom]",
+      "CVR/SE/TIN": "[tom]",
+      "Navn afdeling/Name Sub-fund": "VanEck Morningstar Developed Markets ex-US Dividend Leaders UCITS ETF",
+      "TIN": "[tom]",
+      "Navn/Name": "VanEck UCITS ETF plc",
+      "Registrerede år/Registered": 2026,
+      "Ikke registrerede år/Deregistered": "2020,2021,2022,2023,2024,2025"
+    },
+    {
       "Skattemæssigt hjemsted/Tax residence": "Spain (ES)",
       "ISIN-kode/-Code": "ES0112611001",
       "Navn andelsklasse/Name Shareclass": "Mutual Fund. International equity.",
@@ -30392,8 +30500,32 @@
     },
     {
       "Skattemæssigt hjemsted/Tax residence": "Finland (FI)",
+      "ISIN-kode/-Code": "FI4000410501",
+      "Navn andelsklasse/Name Shareclass": "Nordea Global Enhanced I tillväxt SEK",
+      "LEI-kode/-Code": "549300DGV3UF00SS9O26",
+      "CVR/SE/TIN": "[tom]",
+      "Navn afdeling/Name Sub-fund": "Nordea Global Enhanced Fund",
+      "TIN": "[tom]",
+      "Navn/Name": "[tom]",
+      "Registrerede år/Registered": "2021,2022,2023,2024,2025,2026",
+      "Ikke registrerede år/Deregistered": 2020
+    },
+    {
+      "Skattemæssigt hjemsted/Tax residence": "Finland (FI)",
       "ISIN-kode/-Code": "FI4000410519",
       "Navn andelsklasse/Name Shareclass": "Nordea North American Enhanced I growth (NOK)",
+      "LEI-kode/-Code": "549300W7839USWFU3D94",
+      "CVR/SE/TIN": "[tom]",
+      "Navn afdeling/Name Sub-fund": "Nordea North American Enhanced Fund",
+      "TIN": "[tom]",
+      "Navn/Name": "[tom]",
+      "Registrerede år/Registered": "2021,2022,2023,2024,2025,2026",
+      "Ikke registrerede år/Deregistered": 2020
+    },
+    {
+      "Skattemæssigt hjemsted/Tax residence": "Finland (FI)",
+      "ISIN-kode/-Code": "FI4000410527",
+      "Navn andelsklasse/Name Shareclass": "Nordea North American Enhanced I tillväxt SEK",
       "LEI-kode/-Code": "549300W7839USWFU3D94",
       "CVR/SE/TIN": "[tom]",
       "Navn afdeling/Name Sub-fund": "Nordea North American Enhanced Fund",
