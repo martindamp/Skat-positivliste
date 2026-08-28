@@ -1,11 +1,23 @@
 {
   "metadata": {
-    "last_updated": "27. August 2026 kl. 15:49",
+    "last_updated": "28. August 2026 kl. 16:55",
     "source_url": "https://skat.dk/erhverv/ekapital/vaerdipapirer/beviser-og-aktier-i-investeringsforeninger-og-selskaber-ifpa",
-    "excel_url": "https://skat.dk/media/5bdgifbu/juni-2026-abis-liste-2021-2026.xlsx",
+    "excel_url": "https://skat.dk/media/euzdrcqh/august-2026-abis-liste-2021-2026.xlsx",
     "description": "Automatisk udtrukket fra Skats IFPA-liste."
   },
   "records": [
+    {
+      "Skattemæssigt hjemsted/Tax residence": "Denmark (DK)",
+      "ISIN-kode/-Code": "DK0065095094",
+      "Navn andelsklasse/Name Shareclass": "Investeringsforeningen BankInvest, Global AI Plus Akk.",
+      "LEI-kode/-Code": "6488MW6NNV59B6270C31",
+      "CVR/SE/TIN": 13575665,
+      "Navn afdeling/Name Sub-fund": "INVESTERINGSFORENINGEN BANKINVEST Global AI Plus Akk.",
+      "TIN": "[tom]",
+      "Navn/Name": "[tom]",
+      "Registrerede år/Registered": 2026,
+      "Ikke registrerede år/Deregistered": "2020,2021,2022,2023,2024,2025"
+    },
     {
       "Skattemæssigt hjemsted/Tax residence": "Denmark (DK)",
       "ISIN-kode/-Code": "DK0060089092",
@@ -1448,6 +1460,18 @@
     },
     {
       "Skattemæssigt hjemsted/Tax residence": "Denmark (DK)",
+      "ISIN-kode/-Code": "DK0065095417",
+      "Navn andelsklasse/Name Shareclass": "Global Index Basic, klasse DKK I",
+      "LEI-kode/-Code": "[tom]",
+      "CVR/SE/TIN": 13582017,
+      "Navn afdeling/Name Sub-fund": "Investeringsforeningen Profil Invest Afdeling Global Index Basic",
+      "TIN": "[tom]",
+      "Navn/Name": "[tom]",
+      "Registrerede år/Registered": 2026,
+      "Ikke registrerede år/Deregistered": "2020,2021,2022,2023,2024,2025"
+    },
+    {
+      "Skattemæssigt hjemsted/Tax residence": "Denmark (DK)",
       "ISIN-kode/-Code": "DK0063969415",
       "Navn andelsklasse/Name Shareclass": "Global Future Engros, klasse A",
       "LEI-kode/-Code": "[tom]",
@@ -2347,6 +2371,18 @@
       "Ikke registrerede år/Deregistered": "2020,2021,2022,2023,2024,2025"
     },
     {
+      "Skattemæssigt hjemsted/Tax residence": "Finland (FI)",
+      "ISIN-kode/-Code": "FI4000602248",
+      "Navn andelsklasse/Name Shareclass": "[tom]",
+      "LEI-kode/-Code": "254900DHMNO2AOEWUB18",
+      "CVR/SE/TIN": "[tom]",
+      "Navn afdeling/Name Sub-fund": "I&T Globale Aktier Kvant Placeringsfond UCITS",
+      "TIN": "3601809-3",
+      "Navn/Name": "I&T Globale Aktier Kvant Placeringsfond UCITS",
+      "Registrerede år/Registered": 2026,
+      "Ikke registrerede år/Deregistered": "2020,2021,2022,2023,2024,2025"
+    },
+    {
       "Skattemæssigt hjemsted/Tax residence": "France (FR)",
       "ISIN-kode/-Code": "FR0010429068",
       "Navn andelsklasse/Name Shareclass": "Lyxor MSCI Emerging Markets UCITS ETF - Acc EUR",
@@ -3032,6 +3068,18 @@
     },
     {
       "Skattemæssigt hjemsted/Tax residence": "Ireland (IE)",
+      "ISIN-kode/-Code": "IE000QZF7EX2",
+      "Navn andelsklasse/Name Shareclass": "iShares MSCI EM Latin America UCITS ETF USD (Accumulating)",
+      "LEI-kode/-Code": "5493001UV681N6H3E474",
+      "CVR/SE/TIN": "6337171K",
+      "Navn afdeling/Name Sub-fund": "iShares MSCI EM Latin America UCITS ETF",
+      "TIN": "6337171K",
+      "Navn/Name": "iShares II Plc",
+      "Registrerede år/Registered": 2026,
+      "Ikke registrerede år/Deregistered": "2020,2021,2022,2023,2024,2025"
+    },
+    {
+      "Skattemæssigt hjemsted/Tax residence": "Ireland (IE)",
       "ISIN-kode/-Code": "IE000E47O2D3",
       "Navn andelsklasse/Name Shareclass": "Class GBP Hedged (Distributing)",
       "LEI-kode/-Code": "5299008DW2F6VTFUDN69",
@@ -3490,7 +3538,7 @@
       "Skattemæssigt hjemsted/Tax residence": "Ireland (IE)",
       "ISIN-kode/-Code": "IE0003D2SQ55",
       "Navn andelsklasse/Name Shareclass": "PGIM Jennison NextGeneration Opportunities Fund USD A Accumulation",
-      "LEI-kode/-Code": "[tom]",
+      "LEI-kode/-Code": "549300OSZ4JVZUBDJ106",
       "CVR/SE/TIN": "[tom]",
       "Navn afdeling/Name Sub-fund": "PGIM Jennison NextGeneration Opportunities Fund",
       "TIN": "3236530CH",
@@ -4053,10 +4101,10 @@
     {
       "Skattemæssigt hjemsted/Tax residence": "Ireland (IE)",
       "ISIN-kode/-Code": "IE00085WDIZ9",
-      "Navn andelsklasse/Name Shareclass": "Stewart Investors Global Emerging Markets Sustainability Fund Class III (Accumulation) JPY",
+      "Navn andelsklasse/Name Shareclass": "Stewart Investors Global Emerging Markets All Cap Fund Class III (Accumulation) JPY",
       "LEI-kode/-Code": "[tom]",
       "CVR/SE/TIN": "[tom]",
-      "Navn afdeling/Name Sub-fund": "Stewart Investors Global Emerging Markets Sustainability Fund",
+      "Navn afdeling/Name Sub-fund": "Stewart Investors Global Emerging Markets All Cap Fund",
       "TIN": "[tom]",
       "Navn/Name": "First Sentier Investors Global Umbrella Fund Plc",
       "Registrerede år/Registered": "2024,2025,2026",
@@ -4317,10 +4365,10 @@
     {
       "Skattemæssigt hjemsted/Tax residence": "Ireland (IE)",
       "ISIN-kode/-Code": "IE000AQHA357",
-      "Navn andelsklasse/Name Shareclass": "Stewart Investors Global Emerging Markets Sustainability Fund Class I (Accumulation) USD",
+      "Navn andelsklasse/Name Shareclass": "Stewart Investors Global Emerging Markets All Cap Fund Class I (Accumulation) USD",
       "LEI-kode/-Code": "[tom]",
       "CVR/SE/TIN": "[tom]",
-      "Navn afdeling/Name Sub-fund": "Stewart Investors Global Emerging Markets Sustainability Fund",
+      "Navn afdeling/Name Sub-fund": "Stewart Investors Global Emerging Markets All Cap Fund",
       "TIN": "[tom]",
       "Navn/Name": "First Sentier Investors Global Umbrella Fund Plc",
       "Registrerede år/Registered": "2024,2025,2026",
@@ -4520,6 +4568,18 @@
     },
     {
       "Skattemæssigt hjemsted/Tax residence": "Ireland (IE)",
+      "ISIN-kode/-Code": "IE000CVDNSE1",
+      "Navn andelsklasse/Name Shareclass": "PGIM Jennison NextGeneration Opportunities Fund GBP I Dstribution (Q)",
+      "LEI-kode/-Code": "549300OSZ4JVZUBDJ106",
+      "CVR/SE/TIN": "[tom]",
+      "Navn afdeling/Name Sub-fund": "PGIM Jennison NextGeneration Opportunities Fund",
+      "TIN": "3236530CH",
+      "Navn/Name": "PGIM Funds Plc",
+      "Registrerede år/Registered": "2024,2025,2026",
+      "Ikke registrerede år/Deregistered": "2020,2021,2022,2023"
+    },
+    {
+      "Skattemæssigt hjemsted/Tax residence": "Ireland (IE)",
       "ISIN-kode/-Code": "IE000CXVOXQ1",
       "Navn andelsklasse/Name Shareclass": "WisdomTree US Quality Dividend Growth UCITS ETF - EUR Hedged Acc",
       "LEI-kode/-Code": "[tom]",
@@ -4712,6 +4772,18 @@
     },
     {
       "Skattemæssigt hjemsted/Tax residence": "Ireland (IE)",
+      "ISIN-kode/-Code": "IE000EWDNVA7",
+      "Navn andelsklasse/Name Shareclass": "PGIM Jennison NextGeneration Opportunities Fund USD I Accumulation",
+      "LEI-kode/-Code": "549300OSZ4JVZUBDJ106",
+      "CVR/SE/TIN": "[tom]",
+      "Navn afdeling/Name Sub-fund": "PGIM Jennison NextGeneration Opportunities Fund",
+      "TIN": "3236530CH",
+      "Navn/Name": "PGIM Funds Plc",
+      "Registrerede år/Registered": "2024,2025,2026",
+      "Ikke registrerede år/Deregistered": "2020,2021,2022,2023"
+    },
+    {
+      "Skattemæssigt hjemsted/Tax residence": "Ireland (IE)",
       "ISIN-kode/-Code": "IE000EZQ5DP5",
       "Navn andelsklasse/Name Shareclass": "Ah acc GBP",
       "LEI-kode/-Code": "635400KERB5AKKG7RN24",
@@ -4846,7 +4918,7 @@
       "Skattemæssigt hjemsted/Tax residence": "Ireland (IE)",
       "ISIN-kode/-Code": "IE000G1KDSV0",
       "Navn andelsklasse/Name Shareclass": "EUR A Accumulation",
-      "LEI-kode/-Code": "[tom]",
+      "LEI-kode/-Code": "549300OSZ4JVZUBDJ106",
       "CVR/SE/TIN": "[tom]",
       "Navn afdeling/Name Sub-fund": "PGIM Jennison NextGeneration Opportunities Fund",
       "TIN": "3236530CH",
@@ -5588,6 +5660,18 @@
     },
     {
       "Skattemæssigt hjemsted/Tax residence": "Ireland (IE)",
+      "ISIN-kode/-Code": "IE000NH1YB63",
+      "Navn andelsklasse/Name Shareclass": "PGIM Jennison NextGeneration Opportunities Fund EUR I Accumulation",
+      "LEI-kode/-Code": "549300OSZ4JVZUBDJ106",
+      "CVR/SE/TIN": "[tom]",
+      "Navn afdeling/Name Sub-fund": "PGIM Jennison NextGeneration Opportunities Fund",
+      "TIN": "3236530CH",
+      "Navn/Name": "PGIM Funds Plc",
+      "Registrerede år/Registered": "2024,2025,2026",
+      "Ikke registrerede år/Deregistered": "2020,2021,2022,2023"
+    },
+    {
+      "Skattemæssigt hjemsted/Tax residence": "Ireland (IE)",
       "ISIN-kode/-Code": "IE000NK5VMF8",
       "Navn andelsklasse/Name Shareclass": "SA acc EUR",
       "LEI-kode/-Code": "635400KERB5AKKG7RN24",
@@ -5660,6 +5744,18 @@
     },
     {
       "Skattemæssigt hjemsted/Tax residence": "Ireland (IE)",
+      "ISIN-kode/-Code": "IE000O3YL277",
+      "Navn andelsklasse/Name Shareclass": "PGIM Jennison NextGeneration Opportunities Fund CHF I Accumulation",
+      "LEI-kode/-Code": "549300OSZ4JVZUBDJ106",
+      "CVR/SE/TIN": "[tom]",
+      "Navn afdeling/Name Sub-fund": "PGIM Jennison NextGeneration Opportunities Fund",
+      "TIN": "3236530CH",
+      "Navn/Name": "PGIM Funds Plc",
+      "Registrerede år/Registered": "2024,2025,2026",
+      "Ikke registrerede år/Deregistered": "2020,2021,2022,2023"
+    },
+    {
+      "Skattemæssigt hjemsted/Tax residence": "Ireland (IE)",
       "ISIN-kode/-Code": "IE000O5FBC47",
       "Navn andelsklasse/Name Shareclass": "Amundi ETF ICAV - AMUNDI S&P 500 CLIMATE NET ZERO AMBITION PAB UCITS ETF - ACC",
       "LEI-kode/-Code": "213800M4IYZ2VNKP8986",
@@ -5669,6 +5765,30 @@
       "Navn/Name": "Amundi ETF ICAV",
       "Registrerede år/Registered": "2024,2025,2026",
       "Ikke registrerede år/Deregistered": "2020,2021,2022,2023"
+    },
+    {
+      "Skattemæssigt hjemsted/Tax residence": "Ireland (IE)",
+      "ISIN-kode/-Code": "IE000CO65C82",
+      "Navn andelsklasse/Name Shareclass": "WisdomTree Global High Dividend UCITS ETF - USD Acc",
+      "LEI-kode/-Code": "[tom]",
+      "CVR/SE/TIN": "[tom]",
+      "Navn afdeling/Name Sub-fund": "WisdomTree Global High Dividend UCITS ETF",
+      "TIN": "[tom]",
+      "Navn/Name": "WisdomTree Issuer ICAV",
+      "Registrerede år/Registered": 2026,
+      "Ikke registrerede år/Deregistered": "2020,2021,2022,2023,2024,2025"
+    },
+    {
+      "Skattemæssigt hjemsted/Tax residence": "Ireland (IE)",
+      "ISIN-kode/-Code": "IE000Q0CAPZ0",
+      "Navn andelsklasse/Name Shareclass": "WisdomTree Global High Dividend UCITS ETF - USD",
+      "LEI-kode/-Code": "[tom]",
+      "CVR/SE/TIN": "[tom]",
+      "Navn afdeling/Name Sub-fund": "WisdomTree Global High Dividend UCITS ETF",
+      "TIN": "[tom]",
+      "Navn/Name": "WisdomTree Issuer ICAV",
+      "Registrerede år/Registered": 2026,
+      "Ikke registrerede år/Deregistered": "2020,2021,2022,2023,2024,2025"
     },
     {
       "Skattemæssigt hjemsted/Tax residence": "Ireland (IE)",
@@ -5960,15 +6080,15 @@
     },
     {
       "Skattemæssigt hjemsted/Tax residence": "Ireland (IE)",
-      "ISIN-kode/-Code": "IE000R4ZNTN3",
-      "Navn andelsklasse/Name Shareclass": "iShares MSCI World ex-USA UCITS ETF USD Acc",
-      "LEI-kode/-Code": "[tom]",
+      "ISIN-kode/-Code": "IE000ZDDJWZ5",
+      "Navn andelsklasse/Name Shareclass": "USD (Distributing)",
+      "LEI-kode/-Code": "5299007TIP5TWHOV4T96",
       "CVR/SE/TIN": "[tom]",
       "Navn afdeling/Name Sub-fund": "iShares MSCI World ex-USA UCITS ETF",
       "TIN": "9675767K",
       "Navn/Name": "iShares III Plc",
-      "Registrerede år/Registered": 2025.2026,
-      "Ikke registrerede år/Deregistered": "2020,2021,2022,2023,2024"
+      "Registrerede år/Registered": 2026,
+      "Ikke registrerede år/Deregistered": "2020,2021,2022,2023,2024,2025"
     },
     {
       "Skattemæssigt hjemsted/Tax residence": "Ireland (IE)",
@@ -6053,6 +6173,30 @@
       "Navn/Name": "Premium Selection UCITS ICAV",
       "Registrerede år/Registered": "2024,2025,2026",
       "Ikke registrerede år/Deregistered": "2020,2021,2022,2023"
+    },
+    {
+      "Skattemæssigt hjemsted/Tax residence": "Ireland (IE)",
+      "ISIN-kode/-Code": "IE00097WZHZ9",
+      "Navn andelsklasse/Name Shareclass": "USD (Accumulating)",
+      "LEI-kode/-Code": "529900XAXU8ETZVXFH81",
+      "CVR/SE/TIN": "[tom]",
+      "Navn afdeling/Name Sub-fund": "iShares FTSE All-World UCITS ETF",
+      "TIN": "[tom]",
+      "Navn/Name": "iShares II Plc",
+      "Registrerede år/Registered": 2026,
+      "Ikke registrerede år/Deregistered": "2020,2021,2022,2023,2024,2025"
+    },
+    {
+      "Skattemæssigt hjemsted/Tax residence": "Ireland (IE)",
+      "ISIN-kode/-Code": "IE0004YCLDW1",
+      "Navn andelsklasse/Name Shareclass": "EUR (Distributing)",
+      "LEI-kode/-Code": "529900YY0CUD4OQI6D11",
+      "CVR/SE/TIN": "[tom]",
+      "Navn afdeling/Name Sub-fund": "iShares STOXX Europe 600 UCITS ETF",
+      "TIN": "[tom]",
+      "Navn/Name": "iShares II Plc",
+      "Registrerede år/Registered": 2026,
+      "Ikke registrerede år/Deregistered": "2020,2021,2022,2023,2024,2025"
     },
     {
       "Skattemæssigt hjemsted/Tax residence": "Ireland (IE)",
@@ -6381,10 +6525,10 @@
     {
       "Skattemæssigt hjemsted/Tax residence": "Ireland (IE)",
       "ISIN-kode/-Code": "IE000UT9VQY4",
-      "Navn andelsklasse/Name Shareclass": "Stewart Investors Global Emerging Markets Sustainability Fund Class VI (Accumulation) GBP",
+      "Navn andelsklasse/Name Shareclass": "Stewart Investors Global Emerging Markets All Cap Fund Class VI (Accumulation) GBP",
       "LEI-kode/-Code": "[tom]",
       "CVR/SE/TIN": "[tom]",
-      "Navn afdeling/Name Sub-fund": "Stewart Investors Global Emerging Markets Sustainability Fund",
+      "Navn afdeling/Name Sub-fund": "Stewart Investors Global Emerging Markets All Cap Fund",
       "TIN": "[tom]",
       "Navn/Name": "First Sentier Investors Global Umbrella Fund Plc",
       "Registrerede år/Registered": "2024,2025,2026",
@@ -7184,6 +7328,18 @@
     },
     {
       "Skattemæssigt hjemsted/Tax residence": "Ireland (IE)",
+      "ISIN-kode/-Code": "IE00B27YCK28",
+      "Navn andelsklasse/Name Shareclass": "iShares MSCI EM Latin America UCITS ETF USD (Dist)",
+      "LEI-kode/-Code": "5493001UV681N6H3E474",
+      "CVR/SE/TIN": "6337171K",
+      "Navn afdeling/Name Sub-fund": "iShares MSCI EM Latin America UCITS ETF USD (Dist)",
+      "TIN": "6337171K",
+      "Navn/Name": "iShares II Plc",
+      "Registrerede år/Registered": "2020,2021,2022,2023,2024,2025,2026",
+      "Ikke registrerede år/Deregistered": ""
+    },
+    {
+      "Skattemæssigt hjemsted/Tax residence": "Ireland (IE)",
       "ISIN-kode/-Code": "IE00B27YCN58 ",
       "Navn andelsklasse/Name Shareclass": "iShares MSCI World Islamic UCITS ETF",
       "LEI-kode/-Code": "5493000R6P5HVW4ABF25",
@@ -7413,10 +7569,10 @@
     {
       "Skattemæssigt hjemsted/Tax residence": "Ireland (IE)",
       "ISIN-kode/-Code": "IE00BF18T884",
-      "Navn andelsklasse/Name Shareclass": "Stewart Investors Global Emerging Markets Sustainability Fund Class VI (Accumulation) USD",
+      "Navn andelsklasse/Name Shareclass": "Stewart Investors Global Emerging Markets All Cap Fund Class VI (Accumulation) USD",
       "LEI-kode/-Code": "[tom]",
       "CVR/SE/TIN": "[tom]",
-      "Navn afdeling/Name Sub-fund": "Stewart Investors Global Emerging Markets Sustainability Fund",
+      "Navn afdeling/Name Sub-fund": "Stewart Investors Global Emerging Markets All Cap Fund",
       "TIN": "[tom]",
       "Navn/Name": "First Sentier Investors Global Umbrella Fund Plc",
       "Registrerede år/Registered": "2024,2025,2026",
@@ -7557,10 +7713,10 @@
     {
       "Skattemæssigt hjemsted/Tax residence": "Ireland (IE)",
       "ISIN-kode/-Code": "IE00BFY85Q51",
-      "Navn andelsklasse/Name Shareclass": "Stewart Investors Global Emerging Markets Sustainability Fund Class I (Accumulation) EUR",
+      "Navn andelsklasse/Name Shareclass": "Stewart Investors Global Emerging Markets All Cap Fund Class I (Accumulation) EUR",
       "LEI-kode/-Code": "[tom]",
       "CVR/SE/TIN": "[tom]",
-      "Navn afdeling/Name Sub-fund": "Stewart Investors Global Emerging Markets Sustainability Fund",
+      "Navn afdeling/Name Sub-fund": "Stewart Investors Global Emerging Markets All Cap Fund",
       "TIN": "[tom]",
       "Navn/Name": "First Sentier Investors Global Umbrella Fund Plc",
       "Registrerede år/Registered": "2024,2025,2026",
@@ -7569,14 +7725,38 @@
     {
       "Skattemæssigt hjemsted/Tax residence": "Ireland (IE)",
       "ISIN-kode/-Code": "IE00BFY85R68",
-      "Navn andelsklasse/Name Shareclass": "Stewart Investors Global Emerging Markets Sustainability Fund VI (Accumulation) EUR",
+      "Navn andelsklasse/Name Shareclass": "Stewart Investors Global Emerging Markets All Cap Fund VI (Accumulation) EUR",
       "LEI-kode/-Code": "[tom]",
       "CVR/SE/TIN": "[tom]",
-      "Navn afdeling/Name Sub-fund": "Stewart Investors Global Emerging Markets Sustainability Fund",
+      "Navn afdeling/Name Sub-fund": "Stewart Investors Global Emerging Markets All Cap Fund",
       "TIN": "[tom]",
       "Navn/Name": "First Sentier Investors Global Umbrella Fund Plc",
       "Registrerede år/Registered": "2024,2025,2026",
       "Ikke registrerede år/Deregistered": "2020,2021,2022,2023"
+    },
+    {
+      "Skattemæssigt hjemsted/Tax residence": "Ireland (IE)",
+      "ISIN-kode/-Code": "IE0007HM1170",
+      "Navn andelsklasse/Name Shareclass": "Stewart Investors Global Emerging Markets All Cap Fund Class III (Accumulation) USD",
+      "LEI-kode/-Code": "[tom]",
+      "CVR/SE/TIN": "[tom]",
+      "Navn afdeling/Name Sub-fund": "Stewart Investors Global Emerging Markets All Cap Fund",
+      "TIN": "[tom]",
+      "Navn/Name": "First Sentier Investors Global Umbrella Fund Plc",
+      "Registrerede år/Registered": 2026,
+      "Ikke registrerede år/Deregistered": "2020,2021,2022,2023,2024,2025"
+    },
+    {
+      "Skattemæssigt hjemsted/Tax residence": "Ireland (IE)",
+      "ISIN-kode/-Code": "IE000P5M9KF7",
+      "Navn andelsklasse/Name Shareclass": "Stewart Investors Global Emerging Markets All Cap Fund Class I (Accumulation) SGD",
+      "LEI-kode/-Code": "[tom]",
+      "CVR/SE/TIN": "[tom]",
+      "Navn afdeling/Name Sub-fund": "Stewart Investors Global Emerging Markets All Cap Fund",
+      "TIN": "[tom]",
+      "Navn/Name": "First Sentier Investors Global Umbrella Fund Plc",
+      "Registrerede år/Registered": 2026,
+      "Ikke registrerede år/Deregistered": "2020,2021,2022,2023,2024,2025"
     },
     {
       "Skattemæssigt hjemsted/Tax residence": "Ireland (IE)",
@@ -7977,10 +8157,10 @@
     {
       "Skattemæssigt hjemsted/Tax residence": "Ireland (IE)",
       "ISIN-kode/-Code": "IE00BKTB3J34",
-      "Navn andelsklasse/Name Shareclass": "Stewart Investors Global Emerging Markets Sustainability Fund VI (Distributing) EUR",
+      "Navn andelsklasse/Name Shareclass": "Stewart Investors Global Emerging Markets All Cap Fund VI (Distributing) EUR",
       "LEI-kode/-Code": "[tom]",
       "CVR/SE/TIN": "[tom]",
-      "Navn afdeling/Name Sub-fund": "Stewart Investors Global Emerging Markets Sustainability Fund",
+      "Navn afdeling/Name Sub-fund": "Stewart Investors Global Emerging Markets All Cap Fund",
       "TIN": "[tom]",
       "Navn/Name": "First Sentier Investors Global Umbrella Fund Plc",
       "Registrerede år/Registered": "2024,2025,2026",
@@ -8789,6 +8969,30 @@
       "Navn/Name": "iShares VI",
       "Registrerede år/Registered": "2023,2024,2025,2026",
       "Ikke registrerede år/Deregistered": "2020,2021,2022"
+    },
+    {
+      "Skattemæssigt hjemsted/Tax residence": "Ireland (IE)",
+      "ISIN-kode/-Code": "IE000IR2DEM6",
+      "Navn andelsklasse/Name Shareclass": "USD (Accumulating)",
+      "LEI-kode/-Code": "529900TLSQ0A3PBT9893",
+      "CVR/SE/TIN": "[tom]",
+      "Navn afdeling/Name Sub-fund": "iShares U.S. Aerospace & Defence UCITS ETF",
+      "TIN": "[tom]",
+      "Navn/Name": "iShares V plc",
+      "Registrerede år/Registered": 2026,
+      "Ikke registrerede år/Deregistered": "2020,2021,2022,2023,2024,2025"
+    },
+    {
+      "Skattemæssigt hjemsted/Tax residence": "Ireland (IE)",
+      "ISIN-kode/-Code": "IE000A9G9R73",
+      "Navn andelsklasse/Name Shareclass": "USD (Accumulating)",
+      "LEI-kode/-Code": "529900K3EXT2NQTVWN33",
+      "CVR/SE/TIN": "[tom]",
+      "Navn afdeling/Name Sub-fund": "iShares Space Technologies UCITS ETF",
+      "TIN": "[tom]",
+      "Navn/Name": "iShares IV Plc",
+      "Registrerede år/Registered": 2026,
+      "Ikke registrerede år/Deregistered": "2020,2021,2022,2023,2024,2025"
     },
     {
       "Skattemæssigt hjemsted/Tax residence": "Ireland (IE)",
@@ -10232,6 +10436,18 @@
     },
     {
       "Skattemæssigt hjemsted/Tax residence": "Ireland (IE)",
+      "ISIN-kode/-Code": "IE000O50THD5",
+      "Navn andelsklasse/Name Shareclass": "Class USD (Accumulating)",
+      "LEI-kode/-Code": "529900YYGT5YFVXWZ908",
+      "CVR/SE/TIN": "[tom]",
+      "Navn afdeling/Name Sub-fund": "iShares World Thematic Rotation Active UCITS ETF",
+      "TIN": "[tom]",
+      "Navn/Name": "iShares III Plc",
+      "Registrerede år/Registered": 2026,
+      "Ikke registrerede år/Deregistered": "2020,2021,2022,2023,2024,2025"
+    },
+    {
+      "Skattemæssigt hjemsted/Tax residence": "Ireland (IE)",
       "ISIN-kode/-Code": "IE00BDDRH300",
       "Navn andelsklasse/Name Shareclass": "Class A Acc (EUR) (Accumulating)",
       "LEI-kode/-Code": "[tom]",
@@ -10263,6 +10479,18 @@
       "Navn afdeling/Name Sub-fund": "BlackRock Advantage Europe Equity Fund",
       "TIN": "[tom]",
       "Navn/Name": "Blackrock Funds I ICAV",
+      "Registrerede år/Registered": 2026,
+      "Ikke registrerede år/Deregistered": "2020,2021,2022,2023,2024,2025"
+    },
+    {
+      "Skattemæssigt hjemsted/Tax residence": "Ireland (IE)",
+      "ISIN-kode/-Code": "IE000OLIUP21",
+      "Navn andelsklasse/Name Shareclass": "Class USD (Accumulating)",
+      "LEI-kode/-Code": "529900QCY70U6P55SU63",
+      "CVR/SE/TIN": "[tom]",
+      "Navn afdeling/Name Sub-fund": "iShares Japan Equity Enhanced Active UCITS ETF",
+      "TIN": "[tom]",
+      "Navn/Name": "iShares III Plc",
       "Registrerede år/Registered": 2026,
       "Ikke registrerede år/Deregistered": "2020,2021,2022,2023,2024,2025"
     },
@@ -11845,7 +12073,43 @@
       "LEI-kode/-Code": "5493009JGB3XP8H4XV85",
       "CVR/SE/TIN": "[tom]",
       "Navn afdeling/Name Sub-fund": "BGF World Financials Fund",
-      "TIN": "[tom]",
+      "TIN": 19624500019,
+      "Navn/Name": "BlackRock Global Funds",
+      "Registrerede år/Registered": 2026,
+      "Ikke registrerede år/Deregistered": "2020,2021,2022,2023,2024,2025"
+    },
+    {
+      "Skattemæssigt hjemsted/Tax residence": "Luxembourg (LU)",
+      "ISIN-kode/-Code": "LU3335691831",
+      "Navn andelsklasse/Name Shareclass": "BGF US Flexible Equity Fund Class B2 USD (Accumulating)",
+      "LEI-kode/-Code": "5493000VBLDY9YB8P237",
+      "CVR/SE/TIN": "[tom]",
+      "Navn afdeling/Name Sub-fund": "BGF US Flexible Equity Fund",
+      "TIN": 19624500019,
+      "Navn/Name": "BlackRock Global Funds",
+      "Registrerede år/Registered": 2026,
+      "Ikke registrerede år/Deregistered": "2020,2021,2022,2023,2024,2025"
+    },
+    {
+      "Skattemæssigt hjemsted/Tax residence": "Luxembourg (LU)",
+      "ISIN-kode/-Code": "LU3334218529",
+      "Navn andelsklasse/Name Shareclass": "BGF US Flexible Equity Fund Class B10 USD (Distributing)",
+      "LEI-kode/-Code": "5493000VBLDY9YB8P237",
+      "CVR/SE/TIN": "[tom]",
+      "Navn afdeling/Name Sub-fund": "BGF US Flexible Equity Fund",
+      "TIN": 19624500019,
+      "Navn/Name": "BlackRock Global Funds",
+      "Registrerede år/Registered": 2026,
+      "Ikke registrerede år/Deregistered": "2020,2021,2022,2023,2024,2025"
+    },
+    {
+      "Skattemæssigt hjemsted/Tax residence": "Luxembourg (LU)",
+      "ISIN-kode/-Code": "LU3334218446",
+      "Navn andelsklasse/Name Shareclass": "BGF US Flexible Equity Fund Class A10 USD (Distributing)",
+      "LEI-kode/-Code": "5493000VBLDY9YB8P237",
+      "CVR/SE/TIN": "[tom]",
+      "Navn afdeling/Name Sub-fund": "BGF US Flexible Equity Fund",
+      "TIN": 19624500019,
       "Navn/Name": "BlackRock Global Funds",
       "Registrerede år/Registered": 2026,
       "Ikke registrerede år/Deregistered": "2020,2021,2022,2023,2024,2025"
@@ -11972,6 +12236,18 @@
     },
     {
       "Skattemæssigt hjemsted/Tax residence": "Luxembourg (LU)",
+      "ISIN-kode/-Code": "LU3344455699",
+      "Navn andelsklasse/Name Shareclass": "BGF World Healthscience Fund Class D2 GBP Accumulating",
+      "LEI-kode/-Code": "549300OHN1ZT4WMEMU83",
+      "CVR/SE/TIN": "[tom]",
+      "Navn afdeling/Name Sub-fund": "BGF World Healthscience Fund",
+      "TIN": 19624500019,
+      "Navn/Name": "BlackRock Global Funds",
+      "Registrerede år/Registered": 2026,
+      "Ikke registrerede år/Deregistered": "2020,2021,2022,2023,2024,2025"
+    },
+    {
+      "Skattemæssigt hjemsted/Tax residence": "Luxembourg (LU)",
       "ISIN-kode/-Code": "LU3273002611",
       "Navn andelsklasse/Name Shareclass": "Nordea 1 - Global Climate Transition Engagement Fund - HB - SGD",
       "LEI-kode/-Code": "549300KRLGEORNVT7310",
@@ -12017,6 +12293,30 @@
       "Navn/Name": "BlackRock Global Funds",
       "Registrerede år/Registered": "2024,2025,2026",
       "Ikke registrerede år/Deregistered": "2020,2021,2022,2023"
+    },
+    {
+      "Skattemæssigt hjemsted/Tax residence": "Luxembourg (LU)",
+      "ISIN-kode/-Code": "LU0050381036",
+      "Navn andelsklasse/Name Shareclass": "Wellington US Research Equity Fund USD S Accumulating Unhedged",
+      "LEI-kode/-Code": "TW5TTEQMCSQ5V6YYDE66",
+      "CVR/SE/TIN": "[tom]",
+      "Navn afdeling/Name Sub-fund": "Wellington US Research Equity Fund (Wellington Management Funds)",
+      "TIN": "[tom]",
+      "Navn/Name": "Wellington Management Funds (Luxembourg) III SICAV",
+      "Registrerede år/Registered": "2020,2021,2022,2023,2024,2025,2026",
+      "Ikke registrerede år/Deregistered": ""
+    },
+    {
+      "Skattemæssigt hjemsted/Tax residence": "Luxembourg (LU)",
+      "ISIN-kode/-Code": "LU0050381978",
+      "Navn andelsklasse/Name Shareclass": "Wellington US Research Equity Fund USD G Accumulating Unhedged",
+      "LEI-kode/-Code": "TW5TTEQMCSQ5V6YYDE66",
+      "CVR/SE/TIN": "[tom]",
+      "Navn afdeling/Name Sub-fund": "Wellington US Research Equity Fund (Wellington Management Funds)",
+      "TIN": "[tom]",
+      "Navn/Name": "Wellington Management Funds (Luxembourg) III SICAV",
+      "Registrerede år/Registered": "2020,2021,2022,2023,2024,2025,2026",
+      "Ikke registrerede år/Deregistered": ""
     },
     {
       "Skattemæssigt hjemsted/Tax residence": "Luxembourg (LU)",
@@ -12221,6 +12521,18 @@
       "Navn/Name": "BlackRock Global Funds",
       "Registrerede år/Registered": "2023,2024,2025,2026",
       "Ikke registrerede år/Deregistered": "2020,2021,2022"
+    },
+    {
+      "Skattemæssigt hjemsted/Tax residence": "Luxembourg (LU)",
+      "ISIN-kode/-Code": "LU0106831901",
+      "Navn andelsklasse/Name Shareclass": "BGF World Financials Fund Class A2 USD",
+      "LEI-kode/-Code": "5493009JGB3XP8H4XV85",
+      "CVR/SE/TIN": "[tom]",
+      "Navn afdeling/Name Sub-fund": "BGF World Financials Fund",
+      "TIN": 19624500019,
+      "Navn/Name": "BlackRock Global Funds",
+      "Registrerede år/Registered": "2024,2025,2026",
+      "Ikke registrerede år/Deregistered": "2020,2021,2022,2023"
     },
     {
       "Skattemæssigt hjemsted/Tax residence": "Luxembourg (LU)",
@@ -12716,6 +13028,42 @@
     },
     {
       "Skattemæssigt hjemsted/Tax residence": "Luxembourg (LU)",
+      "ISIN-kode/-Code": "LU0147401128",
+      "Navn andelsklasse/Name Shareclass": "BGF World Financials Fund Class C2 USD",
+      "LEI-kode/-Code": "5493009JGB3XP8H4XV85",
+      "CVR/SE/TIN": "[tom]",
+      "Navn afdeling/Name Sub-fund": "BGF World Financials Fund",
+      "TIN": 19624500019,
+      "Navn/Name": "BlackRock Global Funds",
+      "Registrerede år/Registered": "2024,2025,2026",
+      "Ikke registrerede år/Deregistered": "2020,2021,2022,2023"
+    },
+    {
+      "Skattemæssigt hjemsted/Tax residence": "Luxembourg (LU)",
+      "ISIN-kode/-Code": "LU0147401714",
+      "Navn andelsklasse/Name Shareclass": "BGF World Financials Fund Class E2 USD",
+      "LEI-kode/-Code": "5493009JGB3XP8H4XV85",
+      "CVR/SE/TIN": "[tom]",
+      "Navn afdeling/Name Sub-fund": "BGF World Financials Fund",
+      "TIN": 19624500019,
+      "Navn/Name": "BlackRock Global Funds",
+      "Registrerede år/Registered": "2024,2025,2026",
+      "Ikke registrerede år/Deregistered": "2020,2021,2022,2023"
+    },
+    {
+      "Skattemæssigt hjemsted/Tax residence": "Luxembourg (LU)",
+      "ISIN-kode/-Code": "LU3373506586",
+      "Navn andelsklasse/Name Shareclass": "BGF World Financials Fund Class A2 Hedged CNH (Accumulating)",
+      "LEI-kode/-Code": "5493009JGB3XP8H4XV85",
+      "CVR/SE/TIN": "[tom]",
+      "Navn afdeling/Name Sub-fund": "BGF World Financials Fund",
+      "TIN": 19624500019,
+      "Navn/Name": "BlackRock Global Funds",
+      "Registrerede år/Registered": 2026,
+      "Ikke registrerede år/Deregistered": "2020,2021,2022,2023,2024,2025"
+    },
+    {
+      "Skattemæssigt hjemsted/Tax residence": "Luxembourg (LU)",
       "ISIN-kode/-Code": "LU0147402951",
       "Navn andelsklasse/Name Shareclass": "BGF World Gold Fund - Aggregate (Class C2)",
       "LEI-kode/-Code": "549300VJ8R1OCCCRJB59",
@@ -13037,6 +13385,30 @@
       "Navn/Name": "BlackRock Global Funds",
       "Registrerede år/Registered": "2023,2024,2025,2026",
       "Ikke registrerede år/Deregistered": "2020,2021,2022"
+    },
+    {
+      "Skattemæssigt hjemsted/Tax residence": "Luxembourg (LU)",
+      "ISIN-kode/-Code": "LU0171304719",
+      "Navn andelsklasse/Name Shareclass": "BGF World Financials Fund Class A2 EUR",
+      "LEI-kode/-Code": "5493009JGB3XP8H4XV85",
+      "CVR/SE/TIN": "[tom]",
+      "Navn afdeling/Name Sub-fund": "BGF World Financials Fund",
+      "TIN": 19624500019,
+      "Navn/Name": "BlackRock Global Funds",
+      "Registrerede år/Registered": "2024,2025,2026",
+      "Ikke registrerede år/Deregistered": "2020,2021,2022,2023"
+    },
+    {
+      "Skattemæssigt hjemsted/Tax residence": "Luxembourg (LU)",
+      "ISIN-kode/-Code": "LU0171305443",
+      "Navn andelsklasse/Name Shareclass": "BGF World Financials Fund Class E2 EUR",
+      "LEI-kode/-Code": "5493009JGB3XP8H4XV85",
+      "CVR/SE/TIN": "[tom]",
+      "Navn afdeling/Name Sub-fund": "BGF World Financials Fund",
+      "TIN": 19624500019,
+      "Navn/Name": "BlackRock Global Funds",
+      "Registrerede år/Registered": "2024,2025,2026",
+      "Ikke registrerede år/Deregistered": "2020,2021,2022,2023"
     },
     {
       "Skattemæssigt hjemsted/Tax residence": "Luxembourg (LU)",
@@ -14300,6 +14672,18 @@
     },
     {
       "Skattemæssigt hjemsted/Tax residence": "Luxembourg (LU)",
+      "ISIN-kode/-Code": "LU0329593262",
+      "Navn andelsklasse/Name Shareclass": "BGF World Financials Fund Class D2 USD",
+      "LEI-kode/-Code": "5493009JGB3XP8H4XV85",
+      "CVR/SE/TIN": "[tom]",
+      "Navn afdeling/Name Sub-fund": "BGF World Financials Fund",
+      "TIN": 19624500019,
+      "Navn/Name": "BlackRock Global Funds",
+      "Registrerede år/Registered": "2024,2025,2026",
+      "Ikke registrerede år/Deregistered": "2020,2021,2022,2023"
+    },
+    {
+      "Skattemæssigt hjemsted/Tax residence": "Luxembourg (LU)",
       "ISIN-kode/-Code": "LU0329760770",
       "Navn andelsklasse/Name Shareclass": "DWS Invest Global Infrastructure LC",
       "LEI-kode/-Code": "[tom]",
@@ -14369,6 +14753,18 @@
       "Navn/Name": "BlackRock Global Funds",
       "Registrerede år/Registered": "2023,2024,2025,2026",
       "Ikke registrerede år/Deregistered": "2020,2021,2022"
+    },
+    {
+      "Skattemæssigt hjemsted/Tax residence": "Luxembourg (LU)",
+      "ISIN-kode/-Code": "LU0331289321",
+      "Navn andelsklasse/Name Shareclass": "BGF World Financials Fund Class C2 EUR",
+      "LEI-kode/-Code": "5493009JGB3XP8H4XV85",
+      "CVR/SE/TIN": "[tom]",
+      "Navn afdeling/Name Sub-fund": "BGF World Financials Fund",
+      "TIN": 19624500019,
+      "Navn/Name": "BlackRock Global Funds",
+      "Registrerede år/Registered": "2024,2025,2026",
+      "Ikke registrerede år/Deregistered": "2020,2021,2022,2023"
     },
     {
       "Skattemæssigt hjemsted/Tax residence": "Luxembourg (LU)",
@@ -14624,6 +15020,18 @@
     },
     {
       "Skattemæssigt hjemsted/Tax residence": "Luxembourg (LU)",
+      "ISIN-kode/-Code": "LU0412097049",
+      "Navn andelsklasse/Name Shareclass": "Wellington US Research Equity Fund USD D Accumulating Unhedged",
+      "LEI-kode/-Code": "TW5TTEQMCSQ5V6YYDE66",
+      "CVR/SE/TIN": "[tom]",
+      "Navn afdeling/Name Sub-fund": "Wellington US Research Equity Fund (Wellington Management Funds)",
+      "TIN": "[tom]",
+      "Navn/Name": "Wellington Management Funds (Luxembourg) III SICAV",
+      "Registrerede år/Registered": "2020,2021,2022,2023,2024,2025,2026",
+      "Ikke registrerede år/Deregistered": ""
+    },
+    {
+      "Skattemæssigt hjemsted/Tax residence": "Luxembourg (LU)",
       "ISIN-kode/-Code": "LU0418790928",
       "Navn andelsklasse/Name Shareclass": "BSF - BlackRock European Opportunities Extension Fund (Class E2)",
       "LEI-kode/-Code": "[tom]",
@@ -14727,6 +15135,18 @@
       "Navn afdeling/Name Sub-fund": "JPMorgan Funds - Emerging Markets Equity Fund",
       "TIN": "[tom]",
       "Navn/Name": "[tom]",
+      "Registrerede år/Registered": "2020,2021,2022,2023,2024,2025,2026",
+      "Ikke registrerede år/Deregistered": ""
+    },
+    {
+      "Skattemæssigt hjemsted/Tax residence": "Luxembourg (LU)",
+      "ISIN-kode/-Code": "LU0456910800",
+      "Navn andelsklasse/Name Shareclass": "Wellington US Research Equity Fund EUR G Accumulating Hedged",
+      "LEI-kode/-Code": "TW5TTEQMCSQ5V6YYDE66",
+      "CVR/SE/TIN": "[tom]",
+      "Navn afdeling/Name Sub-fund": "Wellington US Research Equity Fund (Wellington Management Funds)",
+      "TIN": "[tom]",
+      "Navn/Name": "Wellington Management Funds (Luxembourg) III SICAV",
       "Registrerede år/Registered": "2020,2021,2022,2023,2024,2025,2026",
       "Ikke registrerede år/Deregistered": ""
     },
@@ -15968,6 +16388,18 @@
     },
     {
       "Skattemæssigt hjemsted/Tax residence": "Luxembourg (LU)",
+      "ISIN-kode/-Code": "LU0827889055",
+      "Navn andelsklasse/Name Shareclass": "BGF World Financials Fund Class D2 EUR",
+      "LEI-kode/-Code": "5493009JGB3XP8H4XV85",
+      "CVR/SE/TIN": "[tom]",
+      "Navn afdeling/Name Sub-fund": "BGF World Financials Fund",
+      "TIN": 19624500019,
+      "Navn/Name": "BlackRock Global Funds",
+      "Registrerede år/Registered": "2024,2025,2026",
+      "Ikke registrerede år/Deregistered": "2020,2021,2022,2023"
+    },
+    {
+      "Skattemæssigt hjemsted/Tax residence": "Luxembourg (LU)",
       "ISIN-kode/-Code": "LU0827890574",
       "Navn andelsklasse/Name Shareclass": "BGF European Fund Class D2 Hedged USD",
       "LEI-kode/-Code": "549300NNK67YCMW4S660",
@@ -15982,18 +16414,6 @@
       "Skattemæssigt hjemsted/Tax residence": "Luxembourg (LU)",
       "ISIN-kode/-Code": "LU0836512615",
       "Navn andelsklasse/Name Shareclass": "iShares World Equity Index Fund (LU) Class A2 USD",
-      "LEI-kode/-Code": "5493009S6A7WIUWV5N64",
-      "CVR/SE/TIN": "[tom]",
-      "Navn afdeling/Name Sub-fund": "iShares World Equity Index Fund (LU)",
-      "TIN": "[tom]",
-      "Navn/Name": "Blackrock Global Index Funds",
-      "Registrerede år/Registered": 2025.2026,
-      "Ikke registrerede år/Deregistered": "2020,2021,2022,2023,2024"
-    },
-    {
-      "Skattemæssigt hjemsted/Tax residence": "Luxembourg (LU)",
-      "ISIN-kode/-Code": "LU3061474634",
-      "Navn andelsklasse/Name Shareclass": "Class N2 (USD) (Accumulating)",
       "LEI-kode/-Code": "5493009S6A7WIUWV5N64",
       "CVR/SE/TIN": "[tom]",
       "Navn afdeling/Name Sub-fund": "iShares World Equity Index Fund (LU)",
@@ -16688,6 +17108,18 @@
     },
     {
       "Skattemæssigt hjemsted/Tax residence": "Luxembourg (LU)",
+      "ISIN-kode/-Code": "LU0891777665",
+      "Navn andelsklasse/Name Shareclass": "Wellington US Research Equity Fund USD N Accumulating Unhedged",
+      "LEI-kode/-Code": "TW5TTEQMCSQ5V6YYDE66",
+      "CVR/SE/TIN": "[tom]",
+      "Navn afdeling/Name Sub-fund": "Wellington US Research Equity Fund (Wellington Management Funds)",
+      "TIN": "[tom]",
+      "Navn/Name": "Wellington Management Funds (Luxembourg) III SICAV",
+      "Registrerede år/Registered": "2020,2021,2022,2023,2024,2025,2026",
+      "Ikke registrerede år/Deregistered": ""
+    },
+    {
+      "Skattemæssigt hjemsted/Tax residence": "Luxembourg (LU)",
       "ISIN-kode/-Code": "LU0893933373",
       "Navn andelsklasse/Name Shareclass": "USD I ACC",
       "LEI-kode/-Code": "[tom]",
@@ -17276,6 +17708,18 @@
     },
     {
       "Skattemæssigt hjemsted/Tax residence": "Luxembourg (LU)",
+      "ISIN-kode/-Code": "LU0988582291",
+      "Navn andelsklasse/Name Shareclass": "BGF World Financials Fund Class X2 USD",
+      "LEI-kode/-Code": "5493009JGB3XP8H4XV85",
+      "CVR/SE/TIN": "[tom]",
+      "Navn afdeling/Name Sub-fund": "BGF World Financials Fund",
+      "TIN": 19624500019,
+      "Navn/Name": "BlackRock Global Funds",
+      "Registrerede år/Registered": "2024,2025,2026",
+      "Ikke registrerede år/Deregistered": "2020,2021,2022,2023"
+    },
+    {
+      "Skattemæssigt hjemsted/Tax residence": "Luxembourg (LU)",
       "ISIN-kode/-Code": "LU0992622497",
       "Navn andelsklasse/Name Shareclass": "BGF Japan Small & MidCap Opportunities Fund Class I2 JPY",
       "LEI-kode/-Code": "549300HZ21BD9CBK5N76",
@@ -17792,6 +18236,18 @@
     },
     {
       "Skattemæssigt hjemsted/Tax residence": "Luxembourg (LU)",
+      "ISIN-kode/-Code": "LU1223419331",
+      "Navn andelsklasse/Name Shareclass": "Wellington US Research Equity Fund USD N Distributing Unhedged",
+      "LEI-kode/-Code": "TW5TTEQMCSQ5V6YYDE66",
+      "CVR/SE/TIN": "[tom]",
+      "Navn afdeling/Name Sub-fund": "Wellington US Research Equity Fund (Wellington Management Funds)",
+      "TIN": "[tom]",
+      "Navn/Name": "Wellington Management Funds (Luxembourg) III SICAV",
+      "Registrerede år/Registered": "2020,2021,2022,2023,2024,2025,2026",
+      "Ikke registrerede år/Deregistered": ""
+    },
+    {
+      "Skattemæssigt hjemsted/Tax residence": "Luxembourg (LU)",
       "ISIN-kode/-Code": "LU1228196983",
       "Navn andelsklasse/Name Shareclass": "JPM Japan Equity I (acc) - JPY",
       "LEI-kode/-Code": "[tom]",
@@ -18029,6 +18485,66 @@
       "Navn/Name": "DWS Invest II",
       "Registrerede år/Registered": "2023,2024,2025,2026",
       "Ikke registrerede år/Deregistered": "2020,2021,2022"
+    },
+    {
+      "Skattemæssigt hjemsted/Tax residence": "Luxembourg (LU)",
+      "ISIN-kode/-Code": "LU1329466632",
+      "Navn andelsklasse/Name Shareclass": "Wellington US Research Equity Fund EUR D Accumulating Hedged",
+      "LEI-kode/-Code": "TW5TTEQMCSQ5V6YYDE66",
+      "CVR/SE/TIN": "[tom]",
+      "Navn afdeling/Name Sub-fund": "Wellington US Research Equity Fund (Wellington Management Funds)",
+      "TIN": "[tom]",
+      "Navn/Name": "Wellington Management Funds (Luxembourg) III SICAV",
+      "Registrerede år/Registered": "2020,2021,2022,2023,2024,2025,2026",
+      "Ikke registrerede år/Deregistered": ""
+    },
+    {
+      "Skattemæssigt hjemsted/Tax residence": "Luxembourg (LU)",
+      "ISIN-kode/-Code": "LU1329466715",
+      "Navn andelsklasse/Name Shareclass": "Wellington US Research Equity Fund EUR D Accumulating Unhedged",
+      "LEI-kode/-Code": "TW5TTEQMCSQ5V6YYDE66",
+      "CVR/SE/TIN": "[tom]",
+      "Navn afdeling/Name Sub-fund": "Wellington US Research Equity Fund (Wellington Management Funds)",
+      "TIN": "[tom]",
+      "Navn/Name": "Wellington Management Funds (Luxembourg) III SICAV",
+      "Registrerede år/Registered": "2020,2021,2022,2023,2024,2025,2026",
+      "Ikke registrerede år/Deregistered": ""
+    },
+    {
+      "Skattemæssigt hjemsted/Tax residence": "Luxembourg (LU)",
+      "ISIN-kode/-Code": "LU1329466806",
+      "Navn andelsklasse/Name Shareclass": "Wellington US Research Equity Fund EUR S Accumulating Hedged",
+      "LEI-kode/-Code": "TW5TTEQMCSQ5V6YYDE66",
+      "CVR/SE/TIN": "[tom]",
+      "Navn afdeling/Name Sub-fund": "Wellington US Research Equity Fund (Wellington Management Funds)",
+      "TIN": "[tom]",
+      "Navn/Name": "Wellington Management Funds (Luxembourg) III SICAV",
+      "Registrerede år/Registered": "2020,2021,2022,2023,2024,2025,2026",
+      "Ikke registrerede år/Deregistered": ""
+    },
+    {
+      "Skattemæssigt hjemsted/Tax residence": "Luxembourg (LU)",
+      "ISIN-kode/-Code": "LU1329466988",
+      "Navn andelsklasse/Name Shareclass": "Wellington US Research Equity Fund EUR S Accumulating Unhedged",
+      "LEI-kode/-Code": "TW5TTEQMCSQ5V6YYDE66",
+      "CVR/SE/TIN": "[tom]",
+      "Navn afdeling/Name Sub-fund": "Wellington US Research Equity Fund (Wellington Management Funds)",
+      "TIN": "[tom]",
+      "Navn/Name": "Wellington Management Funds (Luxembourg) III SICAV",
+      "Registrerede år/Registered": "2020,2021,2022,2023,2024,2025,2026",
+      "Ikke registrerede år/Deregistered": ""
+    },
+    {
+      "Skattemæssigt hjemsted/Tax residence": "Luxembourg (LU)",
+      "ISIN-kode/-Code": "LU1329467101",
+      "Navn andelsklasse/Name Shareclass": "Wellington US Research Equity Fund GBP N Distributing Unhedged",
+      "LEI-kode/-Code": "TW5TTEQMCSQ5V6YYDE66",
+      "CVR/SE/TIN": "[tom]",
+      "Navn afdeling/Name Sub-fund": "Wellington US Research Equity Fund (Wellington Management Funds)",
+      "TIN": "[tom]",
+      "Navn/Name": "Wellington Management Funds (Luxembourg) III SICAV",
+      "Registrerede år/Registered": "2020,2021,2022,2023,2024,2025,2026",
+      "Ikke registrerede år/Deregistered": ""
     },
     {
       "Skattemæssigt hjemsted/Tax residence": "Luxembourg (LU)",
@@ -18392,6 +18908,30 @@
     },
     {
       "Skattemæssigt hjemsted/Tax residence": "Luxembourg (LU)",
+      "ISIN-kode/-Code": "LU1508451900",
+      "Navn andelsklasse/Name Shareclass": "Wellington US Research Equity Fund EUR N Accumulating Hedged",
+      "LEI-kode/-Code": "TW5TTEQMCSQ5V6YYDE66",
+      "CVR/SE/TIN": "[tom]",
+      "Navn afdeling/Name Sub-fund": "Wellington US Research Equity Fund (Wellington Management Funds)",
+      "TIN": "[tom]",
+      "Navn/Name": "Wellington Management Funds (Luxembourg) III SICAV",
+      "Registrerede år/Registered": "2020,2021,2022,2023,2024,2025,2026",
+      "Ikke registrerede år/Deregistered": ""
+    },
+    {
+      "Skattemæssigt hjemsted/Tax residence": "Luxembourg (LU)",
+      "ISIN-kode/-Code": "LU1512743821",
+      "Navn andelsklasse/Name Shareclass": "Wellington US Research Equity Fund GBP S Accumulating Unhedged",
+      "LEI-kode/-Code": "TW5TTEQMCSQ5V6YYDE66",
+      "CVR/SE/TIN": "[tom]",
+      "Navn afdeling/Name Sub-fund": "Wellington US Research Equity Fund (Wellington Management Funds)",
+      "TIN": "[tom]",
+      "Navn/Name": "Wellington Management Funds (Luxembourg) III SICAV",
+      "Registrerede år/Registered": "2020,2021,2022,2023,2024,2025,2026",
+      "Ikke registrerede år/Deregistered": ""
+    },
+    {
+      "Skattemæssigt hjemsted/Tax residence": "Luxembourg (LU)",
       "ISIN-kode/-Code": "LU1529808336",
       "Navn andelsklasse/Name Shareclass": "JPM Europe Sustainable Equity A (acc) - EUR",
       "LEI-kode/-Code": "[tom]",
@@ -18471,6 +19011,18 @@
       "Navn afdeling/Name Sub-fund": "JPMorgan Funds - US Smaller Companies Fund",
       "TIN": "[tom]",
       "Navn/Name": "[tom]",
+      "Registrerede år/Registered": "2020,2021,2022,2023,2024,2025,2026",
+      "Ikke registrerede år/Deregistered": ""
+    },
+    {
+      "Skattemæssigt hjemsted/Tax residence": "Luxembourg (LU)",
+      "ISIN-kode/-Code": "LU1549269337",
+      "Navn andelsklasse/Name Shareclass": "Wellington US Research Equity Fund USD SP Accumulating Unhedged",
+      "LEI-kode/-Code": "TW5TTEQMCSQ5V6YYDE66",
+      "CVR/SE/TIN": "[tom]",
+      "Navn afdeling/Name Sub-fund": "Wellington US Research Equity Fund (Wellington Management Funds)",
+      "TIN": "[tom]",
+      "Navn/Name": "Wellington Management Funds (Luxembourg) III SICAV",
       "Registrerede år/Registered": "2020,2021,2022,2023,2024,2025,2026",
       "Ikke registrerede år/Deregistered": ""
     },
@@ -18776,6 +19328,18 @@
     },
     {
       "Skattemæssigt hjemsted/Tax residence": "Luxembourg (LU)",
+      "ISIN-kode/-Code": "LU1668664300",
+      "Navn andelsklasse/Name Shareclass": "BGF World Financials Fund Class A2 Hedged SGD",
+      "LEI-kode/-Code": "5493009JGB3XP8H4XV85",
+      "CVR/SE/TIN": "[tom]",
+      "Navn afdeling/Name Sub-fund": "BGF World Financials Fund",
+      "TIN": 19624500019,
+      "Navn/Name": "BlackRock Global Funds",
+      "Registrerede år/Registered": "2024,2025,2026",
+      "Ikke registrerede år/Deregistered": "2020,2021,2022,2023"
+    },
+    {
+      "Skattemæssigt hjemsted/Tax residence": "Luxembourg (LU)",
       "ISIN-kode/-Code": "LU1670626446",
       "Navn andelsklasse/Name Shareclass": "M&G (Lux) Japan Fund EUR A Acc",
       "LEI-kode/-Code": "549300OR1ZG2XAP7AU07",
@@ -18905,6 +19469,18 @@
       "Navn/Name": "M&G (Lux) Investment Funds 1 SA SICAV",
       "Registrerede år/Registered": "2024,2025,2026",
       "Ikke registrerede år/Deregistered": "2020,2021,2022,2023"
+    },
+    {
+      "Skattemæssigt hjemsted/Tax residence": "Luxembourg (LU)",
+      "ISIN-kode/-Code": "LU1687454352",
+      "Navn andelsklasse/Name Shareclass": "Wellington US Research Equity Fund EUR N Accumulating Unhedged",
+      "LEI-kode/-Code": "TW5TTEQMCSQ5V6YYDE66",
+      "CVR/SE/TIN": "[tom]",
+      "Navn afdeling/Name Sub-fund": "Wellington US Research Equity Fund (Wellington Management Funds)",
+      "TIN": "[tom]",
+      "Navn/Name": "Wellington Management Funds (Luxembourg) III SICAV",
+      "Registrerede år/Registered": "2020,2021,2022,2023,2024,2025,2026",
+      "Ikke registrerede år/Deregistered": ""
     },
     {
       "Skattemæssigt hjemsted/Tax residence": "Luxembourg (LU)",
@@ -19440,11 +20016,23 @@
       "Navn andelsklasse/Name Shareclass": "Wellington US Research Equity Fund USD DL Accumulating Unhedged",
       "LEI-kode/-Code": "TW5TTEQMCSQ5V6YYDE66",
       "CVR/SE/TIN": "[tom]",
-      "Navn afdeling/Name Sub-fund": "Wellington Management Funds (Luxembourg)",
+      "Navn afdeling/Name Sub-fund": "Wellington US Research Equity Fund (Wellington Management Funds)",
       "TIN": "[tom]",
-      "Navn/Name": "[tom]",
+      "Navn/Name": "Wellington Management Funds (Luxembourg) III SICAV",
       "Registrerede år/Registered": "2022,2023,2024,2025,2026",
       "Ikke registrerede år/Deregistered": 2020.2021
+    },
+    {
+      "Skattemæssigt hjemsted/Tax residence": "Luxembourg (LU)",
+      "ISIN-kode/-Code": "LU1791807156",
+      "Navn andelsklasse/Name Shareclass": "BGF World Financials Fund A2 HKD Hedged",
+      "LEI-kode/-Code": "5493009JGB3XP8H4XV85",
+      "CVR/SE/TIN": "[tom]",
+      "Navn afdeling/Name Sub-fund": "BGF World Financials Fund",
+      "TIN": 19624500019,
+      "Navn/Name": "BlackRock Global Funds",
+      "Registrerede år/Registered": "2024,2025,2026",
+      "Ikke registrerede år/Deregistered": "2020,2021,2022,2023"
     },
     {
       "Skattemæssigt hjemsted/Tax residence": "Luxembourg (LU)",
@@ -20024,6 +20612,18 @@
     },
     {
       "Skattemæssigt hjemsted/Tax residence": "Luxembourg (LU)",
+      "ISIN-kode/-Code": "LU1873137084",
+      "Navn andelsklasse/Name Shareclass": "Wellington US Research Equity Fund GBP T Accumulating Unhedged",
+      "LEI-kode/-Code": "TW5TTEQMCSQ5V6YYDE66",
+      "CVR/SE/TIN": "[tom]",
+      "Navn afdeling/Name Sub-fund": "Wellington US Research Equity Fund (Wellington Management Funds)",
+      "TIN": "[tom]",
+      "Navn/Name": "Wellington Management Funds (Luxembourg) III SICAV",
+      "Registrerede år/Registered": "2020,2021,2022,2023,2024,2025,2026",
+      "Ikke registrerede år/Deregistered": ""
+    },
+    {
+      "Skattemæssigt hjemsted/Tax residence": "Luxembourg (LU)",
       "ISIN-kode/-Code": "LU1875395870",
       "Navn andelsklasse/Name Shareclass": "Xtrackers Nikkei 225 UCITS ETF",
       "LEI-kode/-Code": "549300LVXXR6TCRR8V11",
@@ -20165,6 +20765,18 @@
       "Navn/Name": "JPMorgan Funds, SICAV",
       "Registrerede år/Registered": "2023,2024,2025,2026",
       "Ikke registrerede år/Deregistered": "2020,2021,2022"
+    },
+    {
+      "Skattemæssigt hjemsted/Tax residence": "Luxembourg (LU)",
+      "ISIN-kode/-Code": "LU1912699268",
+      "Navn andelsklasse/Name Shareclass": "Wellington US Research Equity Fund GBP N Accumulating Unhedged",
+      "LEI-kode/-Code": "TW5TTEQMCSQ5V6YYDE66",
+      "CVR/SE/TIN": "[tom]",
+      "Navn afdeling/Name Sub-fund": "Wellington US Research Equity Fund (Wellington Management Funds)",
+      "TIN": "[tom]",
+      "Navn/Name": "Wellington Management Funds (Luxembourg) III SICAV",
+      "Registrerede år/Registered": "2020,2021,2022,2023,2024,2025,2026",
+      "Ikke registrerede år/Deregistered": ""
     },
     {
       "Skattemæssigt hjemsted/Tax residence": "Luxembourg (LU)",
@@ -20384,6 +20996,18 @@
     },
     {
       "Skattemæssigt hjemsted/Tax residence": "Luxembourg (LU)",
+      "ISIN-kode/-Code": "LU1960223920",
+      "Navn andelsklasse/Name Shareclass": "BGF World Financials Fund AI2 EUR",
+      "LEI-kode/-Code": "5493009JGB3XP8H4XV85",
+      "CVR/SE/TIN": "[tom]",
+      "Navn afdeling/Name Sub-fund": "BGF World Financials Fund",
+      "TIN": 19624500019,
+      "Navn/Name": "BlackRock Global Funds",
+      "Registrerede år/Registered": "2024,2025,2026",
+      "Ikke registrerede år/Deregistered": "2020,2021,2022,2023"
+    },
+    {
+      "Skattemæssigt hjemsted/Tax residence": "Luxembourg (LU)",
       "ISIN-kode/-Code": "LU1960224068",
       "Navn andelsklasse/Name Shareclass": "BGF World Gold Fund - Aggregate (Class AI2)",
       "LEI-kode/-Code": "549300VJ8R1OCCCRJB59",
@@ -20597,6 +21221,18 @@
       "Navn/Name": "[tom]",
       "Registrerede år/Registered": "2022,2023,2024,2025,2026",
       "Ikke registrerede år/Deregistered": 2020.2021
+    },
+    {
+      "Skattemæssigt hjemsted/Tax residence": "Luxembourg (LU)",
+      "ISIN-kode/-Code": "LU2032644028",
+      "Navn andelsklasse/Name Shareclass": "BGF World Financials Fund I2 EUR",
+      "LEI-kode/-Code": "5493009JGB3XP8H4XV85",
+      "CVR/SE/TIN": "[tom]",
+      "Navn afdeling/Name Sub-fund": "BGF World Financials Fund",
+      "TIN": 19624500019,
+      "Navn/Name": "BlackRock Global Funds",
+      "Registrerede år/Registered": "2024,2025,2026",
+      "Ikke registrerede år/Deregistered": "2020,2021,2022,2023"
     },
     {
       "Skattemæssigt hjemsted/Tax residence": "Luxembourg (LU)",
@@ -22412,6 +23048,18 @@
     },
     {
       "Skattemæssigt hjemsted/Tax residence": "Luxembourg (LU)",
+      "ISIN-kode/-Code": "LU2344713768",
+      "Navn andelsklasse/Name Shareclass": "BGF World Financials Fund A4 EUR",
+      "LEI-kode/-Code": "5493009JGB3XP8H4XV85",
+      "CVR/SE/TIN": "[tom]",
+      "Navn afdeling/Name Sub-fund": "BGF World Financials Fund",
+      "TIN": 19624500019,
+      "Navn/Name": "BlackRock Global Funds",
+      "Registrerede år/Registered": "2024,2025,2026",
+      "Ikke registrerede år/Deregistered": "2020,2021,2022,2023"
+    },
+    {
+      "Skattemæssigt hjemsted/Tax residence": "Luxembourg (LU)",
       "ISIN-kode/-Code": "LU2345981398",
       "Navn andelsklasse/Name Shareclass": "JPM Global Value S2 (acc) - USD",
       "LEI-kode/-Code": "[tom]",
@@ -22968,9 +23616,9 @@
       "Navn andelsklasse/Name Shareclass": "Wellington US Research Equity Fund USD S A1 Distributing Unhedged",
       "LEI-kode/-Code": "TW5TTEQMCSQ5V6YYDE66",
       "CVR/SE/TIN": "[tom]",
-      "Navn afdeling/Name Sub-fund": "Wellington US Research Equity Fund (LU)",
+      "Navn afdeling/Name Sub-fund": "Wellington US Research Equity Fund (Wellington Management Funds)",
       "TIN": "[tom]",
-      "Navn/Name": "Wellington Management Funds (Luxembourg)",
+      "Navn/Name": "Wellington Management Funds (Luxembourg) III SICAV",
       "Registrerede år/Registered": "2023,2024,2025,2026",
       "Ikke registrerede år/Deregistered": "2020,2021,2022"
     },
@@ -23844,9 +24492,9 @@
       "Navn andelsklasse/Name Shareclass": "Wellington US Research Equity Fund USD T Accumulating Unhedged",
       "LEI-kode/-Code": "TW5TTEQMCSQ5V6YYDE66",
       "CVR/SE/TIN": "[tom]",
-      "Navn afdeling/Name Sub-fund": "Wellington US Research Equity Fund (LU)",
+      "Navn afdeling/Name Sub-fund": "Wellington US Research Equity Fund (Wellington Management Funds)",
       "TIN": "[tom]",
-      "Navn/Name": "Wellington Management Funds (Luxembourg)",
+      "Navn/Name": "Wellington Management Funds (Luxembourg) III SICAV",
       "Registrerede år/Registered": "2023,2024,2025,2026",
       "Ikke registrerede år/Deregistered": "2020,2021,2022"
     },
@@ -23924,12 +24572,24 @@
     },
     {
       "Skattemæssigt hjemsted/Tax residence": "Luxembourg (LU)",
+      "ISIN-kode/-Code": "LU2471418637",
+      "Navn andelsklasse/Name Shareclass": "BGF World Financials Fund X10 USD",
+      "LEI-kode/-Code": "5493009JGB3XP8H4XV85",
+      "CVR/SE/TIN": "[tom]",
+      "Navn afdeling/Name Sub-fund": "BGF World Financials Fund",
+      "TIN": 19624500019,
+      "Navn/Name": "BlackRock Global Funds",
+      "Registrerede år/Registered": "2024,2025,2026",
+      "Ikke registrerede år/Deregistered": "2020,2021,2022,2023"
+    },
+    {
+      "Skattemæssigt hjemsted/Tax residence": "Luxembourg (LU)",
       "ISIN-kode/-Code": "LU3096646479",
       "Navn andelsklasse/Name Shareclass": "BGF World Financials Fund Class B10 (USD) (Distributing)",
       "LEI-kode/-Code": "5493009JGB3XP8H4XV85",
       "CVR/SE/TIN": "[tom]",
       "Navn afdeling/Name Sub-fund": "BGF World Financials Fund",
-      "TIN": "[tom]",
+      "TIN": 19624500019,
       "Navn/Name": "BlackRock Global Funds",
       "Registrerede år/Registered": 2025.2026,
       "Ikke registrerede år/Deregistered": "2020,2021,2022,2023,2024"
@@ -23941,7 +24601,7 @@
       "LEI-kode/-Code": "5493009JGB3XP8H4XV85",
       "CVR/SE/TIN": "[tom]",
       "Navn afdeling/Name Sub-fund": "BGF World Financials Fund",
-      "TIN": "[tom]",
+      "TIN": 19624500019,
       "Navn/Name": "BlackRock Global Funds",
       "Registrerede år/Registered": 2025.2026,
       "Ikke registrerede år/Deregistered": "2020,2021,2022,2023,2024"
@@ -24293,6 +24953,18 @@
       "Navn/Name": "BlackRock Global Funds",
       "Registrerede år/Registered": "2023,2024,2025,2026",
       "Ikke registrerede år/Deregistered": "2020,2021,2022"
+    },
+    {
+      "Skattemæssigt hjemsted/Tax residence": "Luxembourg (LU)",
+      "ISIN-kode/-Code": "LU2533724519",
+      "Navn andelsklasse/Name Shareclass": "BGF World Financials Fund Class A10 USD",
+      "LEI-kode/-Code": "5493009JGB3XP8H4XV85",
+      "CVR/SE/TIN": "[tom]",
+      "Navn afdeling/Name Sub-fund": "BGF World Financials Fund",
+      "TIN": 19624500019,
+      "Navn/Name": "BlackRock Global Funds",
+      "Registrerede år/Registered": "2024,2025,2026",
+      "Ikke registrerede år/Deregistered": "2020,2021,2022,2023"
     },
     {
       "Skattemæssigt hjemsted/Tax residence": "Luxembourg (LU)",
@@ -24663,6 +25335,42 @@
       "Navn afdeling/Name Sub-fund": "JPMorgan Investment Funds - Europe Select Equity Fund",
       "TIN": "1994 45 00998",
       "Navn/Name": "JPMorgan Investment Funds",
+      "Registrerede år/Registered": "2024,2025,2026",
+      "Ikke registrerede år/Deregistered": "2020,2021,2022,2023"
+    },
+    {
+      "Skattemæssigt hjemsted/Tax residence": "Luxembourg (LU)",
+      "ISIN-kode/-Code": "LU2624961392",
+      "Navn andelsklasse/Name Shareclass": "BGF World Financials Fund S2 EUR Hedged",
+      "LEI-kode/-Code": "5493009JGB3XP8H4XV85",
+      "CVR/SE/TIN": "[tom]",
+      "Navn afdeling/Name Sub-fund": "BGF World Financials Fund",
+      "TIN": 19624500019,
+      "Navn/Name": "BlackRock Global Funds",
+      "Registrerede år/Registered": "2024,2025,2026",
+      "Ikke registrerede år/Deregistered": "2020,2021,2022,2023"
+    },
+    {
+      "Skattemæssigt hjemsted/Tax residence": "Luxembourg (LU)",
+      "ISIN-kode/-Code": "LU2624961475",
+      "Navn andelsklasse/Name Shareclass": "BGF World Financials Fund S2 USD",
+      "LEI-kode/-Code": "5493009JGB3XP8H4XV85",
+      "CVR/SE/TIN": "[tom]",
+      "Navn afdeling/Name Sub-fund": "BGF World Financials Fund",
+      "TIN": 19624500019,
+      "Navn/Name": "BlackRock Global Funds",
+      "Registrerede år/Registered": "2024,2025,2026",
+      "Ikke registrerede år/Deregistered": "2020,2021,2022,2023"
+    },
+    {
+      "Skattemæssigt hjemsted/Tax residence": "Luxembourg (LU)",
+      "ISIN-kode/-Code": "LU2624961558",
+      "Navn andelsklasse/Name Shareclass": "BGF World Financials Fund S2 EUR",
+      "LEI-kode/-Code": "5493009JGB3XP8H4XV85",
+      "CVR/SE/TIN": "[tom]",
+      "Navn afdeling/Name Sub-fund": "BGF World Financials Fund",
+      "TIN": 19624500019,
+      "Navn/Name": "BlackRock Global Funds",
       "Registrerede år/Registered": "2024,2025,2026",
       "Ikke registrerede år/Deregistered": "2020,2021,2022,2023"
     },
@@ -25613,6 +26321,18 @@
       "Navn/Name": "DWS Invest",
       "Registrerede år/Registered": 2025.2026,
       "Ikke registrerede år/Deregistered": "2020,2021,2022,2023,2024"
+    },
+    {
+      "Skattemæssigt hjemsted/Tax residence": "Luxembourg (LU)",
+      "ISIN-kode/-Code": "LU2763539777",
+      "Navn andelsklasse/Name Shareclass": "BGF World Financials Fund Class I2 JPY",
+      "LEI-kode/-Code": "5493009JGB3XP8H4XV85",
+      "CVR/SE/TIN": "[tom]",
+      "Navn afdeling/Name Sub-fund": "BGF World Financials Fund",
+      "TIN": 19624500019,
+      "Navn/Name": "BlackRock Global Funds",
+      "Registrerede år/Registered": "2024,2025,2026",
+      "Ikke registrerede år/Deregistered": "2020,2021,2022,2023"
     },
     {
       "Skattemæssigt hjemsted/Tax residence": "Luxembourg (LU)",
@@ -27231,8 +27951,8 @@
       "Navn afdeling/Name Sub-fund": "Nordea 1 - Empower Europe Fund",
       "TIN": "[tom]",
       "Navn/Name": "Nordea 1, SICAV",
-      "Registrerede år/Registered": 2026,
-      "Ikke registrerede år/Deregistered": "2020,2021,2022,2023,2024,2025"
+      "Registrerede år/Registered": 2025.2026,
+      "Ikke registrerede år/Deregistered": "2020,2021,2022,2023,2024"
     },
     {
       "Skattemæssigt hjemsted/Tax residence": "Luxembourg (LU)",
@@ -27243,8 +27963,8 @@
       "Navn afdeling/Name Sub-fund": "Nordea 1 - Empower Europe Fund",
       "TIN": "[tom]",
       "Navn/Name": "Nordea 1, SICAV",
-      "Registrerede år/Registered": 2026,
-      "Ikke registrerede år/Deregistered": "2020,2021,2022,2023,2024,2025"
+      "Registrerede år/Registered": 2025.2026,
+      "Ikke registrerede år/Deregistered": "2020,2021,2022,2023,2024"
     },
     {
       "Skattemæssigt hjemsted/Tax residence": "Luxembourg (LU)",
@@ -27255,8 +27975,8 @@
       "Navn afdeling/Name Sub-fund": "Nordea 1 - Empower Europe Fund",
       "TIN": "[tom]",
       "Navn/Name": "Nordea 1, SICAV",
-      "Registrerede år/Registered": 2026,
-      "Ikke registrerede år/Deregistered": "2020,2021,2022,2023,2024,2025"
+      "Registrerede år/Registered": 2025.2026,
+      "Ikke registrerede år/Deregistered": "2020,2021,2022,2023,2024"
     },
     {
       "Skattemæssigt hjemsted/Tax residence": "Luxembourg (LU)",
@@ -27267,8 +27987,8 @@
       "Navn afdeling/Name Sub-fund": "Nordea 1 - Empower Europe Fund",
       "TIN": "[tom]",
       "Navn/Name": "Nordea 1, SICAV",
-      "Registrerede år/Registered": 2026,
-      "Ikke registrerede år/Deregistered": "2020,2021,2022,2023,2024,2025"
+      "Registrerede år/Registered": 2025.2026,
+      "Ikke registrerede år/Deregistered": "2020,2021,2022,2023,2024"
     },
     {
       "Skattemæssigt hjemsted/Tax residence": "Luxembourg (LU)",
@@ -27279,8 +27999,8 @@
       "Navn afdeling/Name Sub-fund": "Nordea 1 - Empower Europe Fund",
       "TIN": "[tom]",
       "Navn/Name": "Nordea 1, SICAV",
-      "Registrerede år/Registered": 2026,
-      "Ikke registrerede år/Deregistered": "2020,2021,2022,2023,2024,2025"
+      "Registrerede år/Registered": 2025.2026,
+      "Ikke registrerede år/Deregistered": "2020,2021,2022,2023,2024"
     },
     {
       "Skattemæssigt hjemsted/Tax residence": "Luxembourg (LU)",
@@ -27291,8 +28011,8 @@
       "Navn afdeling/Name Sub-fund": "Nordea 1 - Empower Europe Fund",
       "TIN": "[tom]",
       "Navn/Name": "Nordea 1, SICAV",
-      "Registrerede år/Registered": 2026,
-      "Ikke registrerede år/Deregistered": "2020,2021,2022,2023,2024,2025"
+      "Registrerede år/Registered": 2025.2026,
+      "Ikke registrerede år/Deregistered": "2020,2021,2022,2023,2024"
     },
     {
       "Skattemæssigt hjemsted/Tax residence": "Luxembourg (LU)",
@@ -27303,8 +28023,8 @@
       "Navn afdeling/Name Sub-fund": "Nordea 1 - Empower Europe Fund",
       "TIN": "[tom]",
       "Navn/Name": "Nordea 1, SICAV",
-      "Registrerede år/Registered": 2026,
-      "Ikke registrerede år/Deregistered": "2020,2021,2022,2023,2024,2025"
+      "Registrerede år/Registered": 2025.2026,
+      "Ikke registrerede år/Deregistered": "2020,2021,2022,2023,2024"
     },
     {
       "Skattemæssigt hjemsted/Tax residence": "Luxembourg (LU)",
@@ -27315,8 +28035,8 @@
       "Navn afdeling/Name Sub-fund": "Nordea 1 - Empower Europe Fund",
       "TIN": "[tom]",
       "Navn/Name": "Nordea 1, SICAV",
-      "Registrerede år/Registered": 2026,
-      "Ikke registrerede år/Deregistered": "2020,2021,2022,2023,2024,2025"
+      "Registrerede år/Registered": 2025.2026,
+      "Ikke registrerede år/Deregistered": "2020,2021,2022,2023,2024"
     },
     {
       "Skattemæssigt hjemsted/Tax residence": "Luxembourg (LU)",
@@ -27327,8 +28047,8 @@
       "Navn afdeling/Name Sub-fund": "Nordea 1 - Empower Europe Fund",
       "TIN": "[tom]",
       "Navn/Name": "Nordea 1, SICAV",
-      "Registrerede år/Registered": 2026,
-      "Ikke registrerede år/Deregistered": "2020,2021,2022,2023,2024,2025"
+      "Registrerede år/Registered": 2025.2026,
+      "Ikke registrerede år/Deregistered": "2020,2021,2022,2023,2024"
     },
     {
       "Skattemæssigt hjemsted/Tax residence": "Luxembourg (LU)",
@@ -27339,8 +28059,8 @@
       "Navn afdeling/Name Sub-fund": "Nordea 1 - Empower Europe Fund",
       "TIN": "[tom]",
       "Navn/Name": "Nordea 1, SICAV",
-      "Registrerede år/Registered": 2026,
-      "Ikke registrerede år/Deregistered": "2020,2021,2022,2023,2024,2025"
+      "Registrerede år/Registered": 2025.2026,
+      "Ikke registrerede år/Deregistered": "2020,2021,2022,2023,2024"
     },
     {
       "Skattemæssigt hjemsted/Tax residence": "Luxembourg (LU)",
@@ -27351,8 +28071,8 @@
       "Navn afdeling/Name Sub-fund": "Nordea 1 - Empower Europe Fund",
       "TIN": "[tom]",
       "Navn/Name": "Nordea 1, SICAV",
-      "Registrerede år/Registered": 2026,
-      "Ikke registrerede år/Deregistered": "2020,2021,2022,2023,2024,2025"
+      "Registrerede år/Registered": 2025.2026,
+      "Ikke registrerede år/Deregistered": "2020,2021,2022,2023,2024"
     },
     {
       "Skattemæssigt hjemsted/Tax residence": "Luxembourg (LU)",
@@ -27363,8 +28083,8 @@
       "Navn afdeling/Name Sub-fund": "Nordea 1 - Empower Europe Fund",
       "TIN": "[tom]",
       "Navn/Name": "Nordea 1, SICAV",
-      "Registrerede år/Registered": 2026,
-      "Ikke registrerede år/Deregistered": "2020,2021,2022,2023,2024,2025"
+      "Registrerede år/Registered": 2025.2026,
+      "Ikke registrerede år/Deregistered": "2020,2021,2022,2023,2024"
     },
     {
       "Skattemæssigt hjemsted/Tax residence": "Luxembourg (LU)",
@@ -27375,8 +28095,8 @@
       "Navn afdeling/Name Sub-fund": "Nordea 1 - Empower Europe Fund",
       "TIN": "[tom]",
       "Navn/Name": "Nordea 1, SICAV",
-      "Registrerede år/Registered": 2026,
-      "Ikke registrerede år/Deregistered": "2020,2021,2022,2023,2024,2025"
+      "Registrerede år/Registered": 2025.2026,
+      "Ikke registrerede år/Deregistered": "2020,2021,2022,2023,2024"
     },
     {
       "Skattemæssigt hjemsted/Tax residence": "Luxembourg (LU)",
@@ -27387,8 +28107,8 @@
       "Navn afdeling/Name Sub-fund": "Nordea 1 - Empower Europe Fund",
       "TIN": "[tom]",
       "Navn/Name": "Nordea 1, SICAV",
-      "Registrerede år/Registered": 2026,
-      "Ikke registrerede år/Deregistered": "2020,2021,2022,2023,2024,2025"
+      "Registrerede år/Registered": 2025.2026,
+      "Ikke registrerede år/Deregistered": "2020,2021,2022,2023,2024"
     },
     {
       "Skattemæssigt hjemsted/Tax residence": "Luxembourg (LU)",
@@ -27399,8 +28119,8 @@
       "Navn afdeling/Name Sub-fund": "Nordea 1 - Empower Europe Fund",
       "TIN": "[tom]",
       "Navn/Name": "Nordea 1, SICAV",
-      "Registrerede år/Registered": 2026,
-      "Ikke registrerede år/Deregistered": "2020,2021,2022,2023,2024,2025"
+      "Registrerede år/Registered": 2025.2026,
+      "Ikke registrerede år/Deregistered": "2020,2021,2022,2023,2024"
     },
     {
       "Skattemæssigt hjemsted/Tax residence": "Luxembourg (LU)",
@@ -27411,8 +28131,8 @@
       "Navn afdeling/Name Sub-fund": "Nordea 1 - Empower Europe Fund",
       "TIN": "[tom]",
       "Navn/Name": "Nordea 1, SICAV",
-      "Registrerede år/Registered": 2026,
-      "Ikke registrerede år/Deregistered": "2020,2021,2022,2023,2024,2025"
+      "Registrerede år/Registered": 2025.2026,
+      "Ikke registrerede år/Deregistered": "2020,2021,2022,2023,2024"
     },
     {
       "Skattemæssigt hjemsted/Tax residence": "Luxembourg (LU)",
@@ -27423,8 +28143,8 @@
       "Navn afdeling/Name Sub-fund": "Nordea 1 - Empower Europe Fund",
       "TIN": "[tom]",
       "Navn/Name": "Nordea 1, SICAV",
-      "Registrerede år/Registered": 2026,
-      "Ikke registrerede år/Deregistered": "2020,2021,2022,2023,2024,2025"
+      "Registrerede år/Registered": 2025.2026,
+      "Ikke registrerede år/Deregistered": "2020,2021,2022,2023,2024"
     },
     {
       "Skattemæssigt hjemsted/Tax residence": "Luxembourg (LU)",
@@ -27435,8 +28155,8 @@
       "Navn afdeling/Name Sub-fund": "Nordea 1 - Empower Europe Fund",
       "TIN": "[tom]",
       "Navn/Name": "Nordea 1, SICAV",
-      "Registrerede år/Registered": 2026,
-      "Ikke registrerede år/Deregistered": "2020,2021,2022,2023,2024,2025"
+      "Registrerede år/Registered": 2025.2026,
+      "Ikke registrerede år/Deregistered": "2020,2021,2022,2023,2024"
     },
     {
       "Skattemæssigt hjemsted/Tax residence": "Luxembourg (LU)",
@@ -27447,8 +28167,8 @@
       "Navn afdeling/Name Sub-fund": "Nordea 1 - Empower Europe Fund",
       "TIN": "[tom]",
       "Navn/Name": "Nordea 1, SICAV",
-      "Registrerede år/Registered": 2026,
-      "Ikke registrerede år/Deregistered": "2020,2021,2022,2023,2024,2025"
+      "Registrerede år/Registered": 2025.2026,
+      "Ikke registrerede år/Deregistered": "2020,2021,2022,2023,2024"
     },
     {
       "Skattemæssigt hjemsted/Tax residence": "Luxembourg (LU)",
@@ -27459,8 +28179,8 @@
       "Navn afdeling/Name Sub-fund": "Nordea 1 - Empower Europe Fund",
       "TIN": "[tom]",
       "Navn/Name": "Nordea 1, SICAV",
-      "Registrerede år/Registered": 2026,
-      "Ikke registrerede år/Deregistered": "2020,2021,2022,2023,2024,2025"
+      "Registrerede år/Registered": 2025.2026,
+      "Ikke registrerede år/Deregistered": "2020,2021,2022,2023,2024"
     },
     {
       "Skattemæssigt hjemsted/Tax residence": "Luxembourg (LU)",
@@ -27471,8 +28191,8 @@
       "Navn afdeling/Name Sub-fund": "Nordea 1 - Empower Europe Fund",
       "TIN": "[tom]",
       "Navn/Name": "Nordea 1, SICAV",
-      "Registrerede år/Registered": 2026,
-      "Ikke registrerede år/Deregistered": "2020,2021,2022,2023,2024,2025"
+      "Registrerede år/Registered": 2025.2026,
+      "Ikke registrerede år/Deregistered": "2020,2021,2022,2023,2024"
     },
     {
       "Skattemæssigt hjemsted/Tax residence": "Luxembourg (LU)",
@@ -30253,7 +30973,7 @@
       "LEI-kode/-Code": "5493009JGB3XP8H4XV85",
       "CVR/SE/TIN": "[tom]",
       "Navn afdeling/Name Sub-fund": "BGF World Financials Fund",
-      "TIN": "[tom]",
+      "TIN": 19624500019,
       "Navn/Name": "BlackRock Global Funds",
       "Registrerede år/Registered": 2026,
       "Ikke registrerede år/Deregistered": "2020,2021,2022,2023,2024,2025"
@@ -31616,6 +32336,18 @@
     },
     {
       "Skattemæssigt hjemsted/Tax residence": "Ireland (IE)",
+      "ISIN-kode/-Code": "IE000R4ZNTN3",
+      "Navn andelsklasse/Name Shareclass": "iShares MSCI World ex-USA UCITS ETF USD Acc",
+      "LEI-kode/-Code": "[tom]",
+      "CVR/SE/TIN": "[tom]",
+      "Navn afdeling/Name Sub-fund": "iShares MSCI World ex-USA UCITS ETF",
+      "TIN": "9675767K",
+      "Navn/Name": "iShares III Plc",
+      "Registrerede år/Registered": 2025.2026,
+      "Ikke registrerede år/Deregistered": "2020,2021,2022,2023,2024"
+    },
+    {
+      "Skattemæssigt hjemsted/Tax residence": "Ireland (IE)",
       "ISIN-kode/-Code": "IE000UL6CLP7",
       "Navn andelsklasse/Name Shareclass": "[tom]",
       "LEI-kode/-Code": "[tom]",
@@ -32000,6 +32732,18 @@
     },
     {
       "Skattemæssigt hjemsted/Tax residence": "Ireland (IE)",
+      "ISIN-kode/-Code": "IE00BYPGTJ26",
+      "Navn andelsklasse/Name Shareclass": "WisdomTree UK Equity Income UCITS ETF",
+      "LEI-kode/-Code": "5393003W2LPY6BANN753",
+      "CVR/SE/TIN": "IE9840218R",
+      "Navn afdeling/Name Sub-fund": "WisdomTree Issuer ICAV",
+      "TIN": "IE9840218R",
+      "Navn/Name": "WisdomTree Issuer ICAV",
+      "Registrerede år/Registered": "2022,2023,2024,2025",
+      "Ikke registrerede år/Deregistered": "2020,2021,2026"
+    },
+    {
+      "Skattemæssigt hjemsted/Tax residence": "Ireland (IE)",
       "ISIN-kode/-Code": "IE00BYWYQZ44",
       "Navn andelsklasse/Name Shareclass": "PGIM Jennison Emerging Market Equity Fund EUR I Accumulation",
       "LEI-kode/-Code": "549300GRYCHEAKS2YP94",
@@ -32021,6 +32765,18 @@
       "Navn/Name": "PGIM Funds Plc",
       "Registrerede år/Registered": 2024.2025,
       "Ikke registrerede år/Deregistered": "2020,2021,2022,2023,2026"
+    },
+    {
+      "Skattemæssigt hjemsted/Tax residence": "Luxembourg (LU)",
+      "ISIN-kode/-Code": "LU3061474634",
+      "Navn andelsklasse/Name Shareclass": "Class N2 (USD) (Accumulating)",
+      "LEI-kode/-Code": "5493009S6A7WIUWV5N64",
+      "CVR/SE/TIN": "[tom]",
+      "Navn afdeling/Name Sub-fund": "iShares World Equity Index Fund (LU)",
+      "TIN": "[tom]",
+      "Navn/Name": "Blackrock Global Index Funds",
+      "Registrerede år/Registered": 2025.2026,
+      "Ikke registrerede år/Deregistered": "2020,2021,2022,2023,2024"
     },
     {
       "Skattemæssigt hjemsted/Tax residence": "Luxembourg (LU)",
@@ -32064,9 +32820,9 @@
       "Navn andelsklasse/Name Shareclass": "Wellington US Research Equity Fund USD BN Accumulating Unhedged",
       "LEI-kode/-Code": "TW5TTEQMCSQ5V6YYDE66",
       "CVR/SE/TIN": "[tom]",
-      "Navn afdeling/Name Sub-fund": "Wellington US Research Equity Fund (LU)",
+      "Navn afdeling/Name Sub-fund": "Wellington US Research Equity Fund (Wellington Management Funds)",
       "TIN": "[tom]",
-      "Navn/Name": "Wellington Management Funds (Luxembourg)",
+      "Navn/Name": "Wellington Management Funds (Luxembourg) III SICAV",
       "Registrerede år/Registered": "2023,2024,2025",
       "Ikke registrerede år/Deregistered": "2020,2021,2022,2026"
     },
@@ -32936,18 +33692,6 @@
     },
     {
       "Skattemæssigt hjemsted/Tax residence": "Ireland (IE)",
-      "ISIN-kode/-Code": "IE000CVDNSE1",
-      "Navn andelsklasse/Name Shareclass": "PGIM Jennison NextGeneration Opportunities Fund GBP I Dstribution (Q)",
-      "LEI-kode/-Code": "549300OSZ4JVZUBDJ106",
-      "CVR/SE/TIN": "[tom]",
-      "Navn afdeling/Name Sub-fund": "PGIM Jennison NextGeneration Opportunities Fund",
-      "TIN": "[tom]",
-      "Navn/Name": "PGIM Funds Plc",
-      "Registrerede år/Registered": "2024,2025,2026",
-      "Ikke registrerede år/Deregistered": "2020,2021,2022,2023"
-    },
-    {
-      "Skattemæssigt hjemsted/Tax residence": "Ireland (IE)",
       "ISIN-kode/-Code": "IE000D9DX847",
       "Navn andelsklasse/Name Shareclass": "JPM Global Research Enhanced Index Equity (ESG) UCITS ETF - GBP Hedged (acc)",
       "LEI-kode/-Code": "[tom]",
@@ -32969,18 +33713,6 @@
       "Navn/Name": "AMUNDI UCITS FUND PARTNERS ICAV",
       "Registrerede år/Registered": 2023.2024,
       "Ikke registrerede år/Deregistered": "2020,2021,2022,2025,2026"
-    },
-    {
-      "Skattemæssigt hjemsted/Tax residence": "Ireland (IE)",
-      "ISIN-kode/-Code": "IE000EWDNVA7",
-      "Navn andelsklasse/Name Shareclass": "PGIM Jennison NextGeneration Opportunities Fund USD I Accumulation",
-      "LEI-kode/-Code": "549300OSZ4JVZUBDJ106",
-      "CVR/SE/TIN": "[tom]",
-      "Navn afdeling/Name Sub-fund": "PGIM Jennison NextGeneration Opportunities Fund",
-      "TIN": "[tom]",
-      "Navn/Name": "PGIM Funds Plc",
-      "Registrerede år/Registered": "2024,2025,2026",
-      "Ikke registrerede år/Deregistered": "2020,2021,2022,2023"
     },
     {
       "Skattemæssigt hjemsted/Tax residence": "Ireland (IE)",
@@ -33105,10 +33837,10 @@
     {
       "Skattemæssigt hjemsted/Tax residence": "Ireland (IE)",
       "ISIN-kode/-Code": "IE000KHX9DX6",
-      "Navn andelsklasse/Name Shareclass": "WisdomTree Energy Transition Metals and Rare Earth Miners UCITS ETF USD Acc",
+      "Navn andelsklasse/Name Shareclass": "WisdomTree Strategic Metals and Rare Earths Miners UCITS ETF – USD Acc",
       "LEI-kode/-Code": "[tom]",
       "CVR/SE/TIN": "[tom]",
-      "Navn afdeling/Name Sub-fund": "WisdomTree Energy Transition Metals and Rare Earth Miners UCITS ETF",
+      "Navn afdeling/Name Sub-fund": "WisdomTree Strategic Metals and Rare Earths Miners UCITS ETF",
       "TIN": "[tom]",
       "Navn/Name": "WisdomTree Issuer ICAV",
       "Registrerede år/Registered": "2024,2025,2026",
@@ -33140,18 +33872,6 @@
     },
     {
       "Skattemæssigt hjemsted/Tax residence": "Ireland (IE)",
-      "ISIN-kode/-Code": "IE000NH1YB63",
-      "Navn andelsklasse/Name Shareclass": "PGIM Jennison NextGeneration Opportunities Fund EUR I Accumulation",
-      "LEI-kode/-Code": "549300OSZ4JVZUBDJ106",
-      "CVR/SE/TIN": "[tom]",
-      "Navn afdeling/Name Sub-fund": "PGIM Jennison NextGeneration Opportunities Fund",
-      "TIN": "[tom]",
-      "Navn/Name": "PGIM Funds Plc",
-      "Registrerede år/Registered": "2024,2025,2026",
-      "Ikke registrerede år/Deregistered": "2020,2021,2022,2023"
-    },
-    {
-      "Skattemæssigt hjemsted/Tax residence": "Ireland (IE)",
       "ISIN-kode/-Code": "IE000NITTFF2",
       "Navn andelsklasse/Name Shareclass": "Mexico City (Mexico) MXN",
       "LEI-kode/-Code": "529900WFUNB1JOOWAC60",
@@ -33173,18 +33893,6 @@
       "Navn/Name": "XTRACKERS (IE) PLC",
       "Registrerede år/Registered": 2023.2024,
       "Ikke registrerede år/Deregistered": "2020,2021,2022,2025,2026"
-    },
-    {
-      "Skattemæssigt hjemsted/Tax residence": "Ireland (IE)",
-      "ISIN-kode/-Code": "IE000O3YL277",
-      "Navn andelsklasse/Name Shareclass": "PGIM Jennison NextGeneration Opportunities Fund CHF I Accumulation",
-      "LEI-kode/-Code": "549300OSZ4JVZUBDJ106",
-      "CVR/SE/TIN": "[tom]",
-      "Navn afdeling/Name Sub-fund": "PGIM Jennison NextGeneration Opportunities Fund",
-      "TIN": "[tom]",
-      "Navn/Name": "PGIM Funds Plc",
-      "Registrerede år/Registered": "2024,2025,2026",
-      "Ikke registrerede år/Deregistered": "2020,2021,2022,2023"
     },
     {
       "Skattemæssigt hjemsted/Tax residence": "Ireland (IE)",
@@ -34088,18 +34796,6 @@
     },
     {
       "Skattemæssigt hjemsted/Tax residence": "Luxembourg (LU)",
-      "ISIN-kode/-Code": "LU0106831901",
-      "Navn andelsklasse/Name Shareclass": "BGF World Financials Fund Class A2 USD",
-      "LEI-kode/-Code": "5493009JGB3XP8H4XV85",
-      "CVR/SE/TIN": "[tom]",
-      "Navn afdeling/Name Sub-fund": "BGF World Financials Fund",
-      "TIN": "[tom]",
-      "Navn/Name": "BlackRock Global Funds",
-      "Registrerede år/Registered": "2024,2025,2026",
-      "Ikke registrerede år/Deregistered": "2020,2021,2022,2023"
-    },
-    {
-      "Skattemæssigt hjemsted/Tax residence": "Luxembourg (LU)",
       "ISIN-kode/-Code": "LU0117895796",
       "Navn andelsklasse/Name Shareclass": "JPM Emerging Europe Equity D (acc) - EUR",
       "LEI-kode/-Code": "[tom]",
@@ -34232,18 +34928,6 @@
     },
     {
       "Skattemæssigt hjemsted/Tax residence": "Luxembourg (LU)",
-      "ISIN-kode/-Code": "LU0147401128",
-      "Navn andelsklasse/Name Shareclass": "BGF World Financials Fund Class C2 USD",
-      "LEI-kode/-Code": "5493009JGB3XP8H4XV85",
-      "CVR/SE/TIN": "[tom]",
-      "Navn afdeling/Name Sub-fund": "BGF World Financials Fund",
-      "TIN": "[tom]",
-      "Navn/Name": "BlackRock Global Funds",
-      "Registrerede år/Registered": "2024,2025,2026",
-      "Ikke registrerede år/Deregistered": "2020,2021,2022,2023"
-    },
-    {
-      "Skattemæssigt hjemsted/Tax residence": "Luxembourg (LU)",
       "ISIN-kode/-Code": "LU0147401474",
       "Navn andelsklasse/Name Shareclass": "BGF Asian Dragon Fund Class C2 USD",
       "LEI-kode/-Code": "549300HS3BV4TZPY5358",
@@ -34261,18 +34945,6 @@
       "LEI-kode/-Code": "549300HS3BV4TZPY5358",
       "CVR/SE/TIN": "[tom]",
       "Navn afdeling/Name Sub-fund": "BGF Asian Dragon Fund",
-      "TIN": "[tom]",
-      "Navn/Name": "BlackRock Global Funds",
-      "Registrerede år/Registered": "2024,2025,2026",
-      "Ikke registrerede år/Deregistered": "2020,2021,2022,2023"
-    },
-    {
-      "Skattemæssigt hjemsted/Tax residence": "Luxembourg (LU)",
-      "ISIN-kode/-Code": "LU0147401714",
-      "Navn andelsklasse/Name Shareclass": "BGF World Financials Fund Class E2 USD",
-      "LEI-kode/-Code": "5493009JGB3XP8H4XV85",
-      "CVR/SE/TIN": "[tom]",
-      "Navn afdeling/Name Sub-fund": "BGF World Financials Fund",
       "TIN": "[tom]",
       "Navn/Name": "BlackRock Global Funds",
       "Registrerede år/Registered": "2024,2025,2026",
@@ -34729,30 +35401,6 @@
       "LEI-kode/-Code": "549300IIRHPWPMMPQ562",
       "CVR/SE/TIN": "[tom]",
       "Navn afdeling/Name Sub-fund": "BGF US Mid-Cap Value Fund",
-      "TIN": "[tom]",
-      "Navn/Name": "BlackRock Global Funds",
-      "Registrerede år/Registered": "2024,2025,2026",
-      "Ikke registrerede år/Deregistered": "2020,2021,2022,2023"
-    },
-    {
-      "Skattemæssigt hjemsted/Tax residence": "Luxembourg (LU)",
-      "ISIN-kode/-Code": "LU0171304719",
-      "Navn andelsklasse/Name Shareclass": "BGF World Financials Fund Class A2 EUR",
-      "LEI-kode/-Code": "5493009JGB3XP8H4XV85",
-      "CVR/SE/TIN": "[tom]",
-      "Navn afdeling/Name Sub-fund": "BGF World Financials Fund",
-      "TIN": "[tom]",
-      "Navn/Name": "BlackRock Global Funds",
-      "Registrerede år/Registered": "2024,2025,2026",
-      "Ikke registrerede år/Deregistered": "2020,2021,2022,2023"
-    },
-    {
-      "Skattemæssigt hjemsted/Tax residence": "Luxembourg (LU)",
-      "ISIN-kode/-Code": "LU0171305443",
-      "Navn andelsklasse/Name Shareclass": "BGF World Financials Fund Class E2 EUR",
-      "LEI-kode/-Code": "5493009JGB3XP8H4XV85",
-      "CVR/SE/TIN": "[tom]",
-      "Navn afdeling/Name Sub-fund": "BGF World Financials Fund",
       "TIN": "[tom]",
       "Navn/Name": "BlackRock Global Funds",
       "Registrerede år/Registered": "2024,2025,2026",
@@ -35660,18 +36308,6 @@
     },
     {
       "Skattemæssigt hjemsted/Tax residence": "Luxembourg (LU)",
-      "ISIN-kode/-Code": "LU0329593262",
-      "Navn andelsklasse/Name Shareclass": "BGF World Financials Fund Class D2 USD",
-      "LEI-kode/-Code": "5493009JGB3XP8H4XV85",
-      "CVR/SE/TIN": "[tom]",
-      "Navn afdeling/Name Sub-fund": "BGF World Financials Fund",
-      "TIN": "[tom]",
-      "Navn/Name": "BlackRock Global Funds",
-      "Registrerede år/Registered": "2024,2025,2026",
-      "Ikke registrerede år/Deregistered": "2020,2021,2022,2023"
-    },
-    {
-      "Skattemæssigt hjemsted/Tax residence": "Luxembourg (LU)",
       "ISIN-kode/-Code": "LU0331282235",
       "Navn andelsklasse/Name Shareclass": "BGF Asian Dragon Fund Class C2 EUR",
       "LEI-kode/-Code": "549300HS3BV4TZPY5358",
@@ -35773,18 +36409,6 @@
       "LEI-kode/-Code": "5493009Z1H3ONBJRQQ80",
       "CVR/SE/TIN": "[tom]",
       "Navn afdeling/Name Sub-fund": "BGF Sustainable Energy Fund",
-      "TIN": "[tom]",
-      "Navn/Name": "BlackRock Global Funds",
-      "Registrerede år/Registered": "2024,2025,2026",
-      "Ikke registrerede år/Deregistered": "2020,2021,2022,2023"
-    },
-    {
-      "Skattemæssigt hjemsted/Tax residence": "Luxembourg (LU)",
-      "ISIN-kode/-Code": "LU0331289321",
-      "Navn andelsklasse/Name Shareclass": "BGF World Financials Fund Class C2 EUR",
-      "LEI-kode/-Code": "5493009JGB3XP8H4XV85",
-      "CVR/SE/TIN": "[tom]",
-      "Navn afdeling/Name Sub-fund": "BGF World Financials Fund",
       "TIN": "[tom]",
       "Navn/Name": "BlackRock Global Funds",
       "Registrerede år/Registered": "2024,2025,2026",
@@ -37328,18 +37952,6 @@
     },
     {
       "Skattemæssigt hjemsted/Tax residence": "Luxembourg (LU)",
-      "ISIN-kode/-Code": "LU0827889055",
-      "Navn andelsklasse/Name Shareclass": "BGF World Financials Fund Class D2 EUR",
-      "LEI-kode/-Code": "5493009JGB3XP8H4XV85",
-      "CVR/SE/TIN": "[tom]",
-      "Navn afdeling/Name Sub-fund": "BGF World Financials Fund",
-      "TIN": "[tom]",
-      "Navn/Name": "BlackRock Global Funds",
-      "Registrerede år/Registered": "2024,2025,2026",
-      "Ikke registrerede år/Deregistered": "2020,2021,2022,2023"
-    },
-    {
-      "Skattemæssigt hjemsted/Tax residence": "Luxembourg (LU)",
       "ISIN-kode/-Code": "LU0827889485",
       "Navn andelsklasse/Name Shareclass": "BGF World Healthscience Fund Class D2 EUR",
       "LEI-kode/-Code": "549300OHN1ZT4WMEMU83",
@@ -37637,18 +38249,6 @@
       "Navn/Name": "[tom]",
       "Registrerede år/Registered": "2020,2021,2022,2023,2024,2025,2026",
       "Ikke registrerede år/Deregistered": ""
-    },
-    {
-      "Skattemæssigt hjemsted/Tax residence": "Luxembourg (LU)",
-      "ISIN-kode/-Code": "LU0988582291",
-      "Navn andelsklasse/Name Shareclass": "BGF World Financials Fund Class X2 USD",
-      "LEI-kode/-Code": "5493009JGB3XP8H4XV85",
-      "CVR/SE/TIN": "[tom]",
-      "Navn afdeling/Name Sub-fund": "BGF World Financials Fund",
-      "TIN": "[tom]",
-      "Navn/Name": "BlackRock Global Funds",
-      "Registrerede år/Registered": "2024,2025,2026",
-      "Ikke registrerede år/Deregistered": "2020,2021,2022,2023"
     },
     {
       "Skattemæssigt hjemsted/Tax residence": "Luxembourg (LU)",
@@ -38624,18 +39224,6 @@
     },
     {
       "Skattemæssigt hjemsted/Tax residence": "Luxembourg (LU)",
-      "ISIN-kode/-Code": "LU1668664300",
-      "Navn andelsklasse/Name Shareclass": "BGF World Financials Fund Class A2 Hedged SGD",
-      "LEI-kode/-Code": "5493009JGB3XP8H4XV85",
-      "CVR/SE/TIN": "[tom]",
-      "Navn afdeling/Name Sub-fund": "BGF World Financials Fund",
-      "TIN": "[tom]",
-      "Navn/Name": "BlackRock Global Funds",
-      "Registrerede år/Registered": "2024,2025,2026",
-      "Ikke registrerede år/Deregistered": "2020,2021,2022,2023"
-    },
-    {
-      "Skattemæssigt hjemsted/Tax residence": "Luxembourg (LU)",
       "ISIN-kode/-Code": "LU1681044480",
       "Navn andelsklasse/Name Shareclass": "AMUNDI MSCI EM ASIA - UCITS ETF EUR (C)",
       "LEI-kode/-Code": "[tom]",
@@ -38845,18 +39433,6 @@
       "LEI-kode/-Code": "549300B68Y7IG12AC693",
       "CVR/SE/TIN": "[tom]",
       "Navn afdeling/Name Sub-fund": "BGF Asian Growth Leaders Fund",
-      "TIN": "[tom]",
-      "Navn/Name": "BlackRock Global Funds",
-      "Registrerede år/Registered": "2024,2025,2026",
-      "Ikke registrerede år/Deregistered": "2020,2021,2022,2023"
-    },
-    {
-      "Skattemæssigt hjemsted/Tax residence": "Luxembourg (LU)",
-      "ISIN-kode/-Code": "LU1791807156",
-      "Navn andelsklasse/Name Shareclass": "BGF World Financials Fund A2 HKD Hedged",
-      "LEI-kode/-Code": "5493009JGB3XP8H4XV85",
-      "CVR/SE/TIN": "[tom]",
-      "Navn afdeling/Name Sub-fund": "BGF World Financials Fund",
       "TIN": "[tom]",
       "Navn/Name": "BlackRock Global Funds",
       "Registrerede år/Registered": "2024,2025,2026",
@@ -39764,18 +40340,6 @@
     },
     {
       "Skattemæssigt hjemsted/Tax residence": "Luxembourg (LU)",
-      "ISIN-kode/-Code": "LU1960223920",
-      "Navn andelsklasse/Name Shareclass": "BGF World Financials Fund AI2 EUR",
-      "LEI-kode/-Code": "5493009JGB3XP8H4XV85",
-      "CVR/SE/TIN": "[tom]",
-      "Navn afdeling/Name Sub-fund": "BGF World Financials Fund",
-      "TIN": "[tom]",
-      "Navn/Name": "BlackRock Global Funds",
-      "Registrerede år/Registered": "2024,2025,2026",
-      "Ikke registrerede år/Deregistered": "2020,2021,2022,2023"
-    },
-    {
-      "Skattemæssigt hjemsted/Tax residence": "Luxembourg (LU)",
       "ISIN-kode/-Code": "LU1960224571",
       "Navn andelsklasse/Name Shareclass": "BGF US Growth Fund AI2 EUR",
       "LEI-kode/-Code": "549300DS7VHS2W0PZD71",
@@ -39985,18 +40549,6 @@
       "LEI-kode/-Code": "549300UJ9NZRIU24W956",
       "CVR/SE/TIN": "[tom]",
       "Navn afdeling/Name Sub-fund": "BGF Japan Flexible Equity Fund",
-      "TIN": "[tom]",
-      "Navn/Name": "BlackRock Global Funds",
-      "Registrerede år/Registered": "2024,2025,2026",
-      "Ikke registrerede år/Deregistered": "2020,2021,2022,2023"
-    },
-    {
-      "Skattemæssigt hjemsted/Tax residence": "Luxembourg (LU)",
-      "ISIN-kode/-Code": "LU2032644028",
-      "Navn andelsklasse/Name Shareclass": "BGF World Financials Fund I2 EUR",
-      "LEI-kode/-Code": "5493009JGB3XP8H4XV85",
-      "CVR/SE/TIN": "[tom]",
-      "Navn afdeling/Name Sub-fund": "BGF World Financials Fund",
       "TIN": "[tom]",
       "Navn/Name": "BlackRock Global Funds",
       "Registrerede år/Registered": "2024,2025,2026",
@@ -40976,18 +41528,6 @@
     },
     {
       "Skattemæssigt hjemsted/Tax residence": "Luxembourg (LU)",
-      "ISIN-kode/-Code": "LU2344713768",
-      "Navn andelsklasse/Name Shareclass": "BGF World Financials Fund A4 EUR",
-      "LEI-kode/-Code": "5493009JGB3XP8H4XV85",
-      "CVR/SE/TIN": "[tom]",
-      "Navn afdeling/Name Sub-fund": "BGF World Financials Fund",
-      "TIN": "[tom]",
-      "Navn/Name": "BlackRock Global Funds",
-      "Registrerede år/Registered": "2024,2025,2026",
-      "Ikke registrerede år/Deregistered": "2020,2021,2022,2023"
-    },
-    {
-      "Skattemæssigt hjemsted/Tax residence": "Luxembourg (LU)",
       "ISIN-kode/-Code": "LU2344713925",
       "Navn andelsklasse/Name Shareclass": "BGF European Special Situations Fund A4 EUR",
       "LEI-kode/-Code": "549300HWH5C0EBD7MS76",
@@ -41624,18 +42164,6 @@
     },
     {
       "Skattemæssigt hjemsted/Tax residence": "Luxembourg (LU)",
-      "ISIN-kode/-Code": "LU2471418637",
-      "Navn andelsklasse/Name Shareclass": "BGF World Financials Fund X10 USD",
-      "LEI-kode/-Code": "5493009JGB3XP8H4XV85",
-      "CVR/SE/TIN": "[tom]",
-      "Navn afdeling/Name Sub-fund": "BGF World Financials Fund",
-      "TIN": "[tom]",
-      "Navn/Name": "BlackRock Global Funds",
-      "Registrerede år/Registered": "2024,2025,2026",
-      "Ikke registrerede år/Deregistered": "2020,2021,2022,2023"
-    },
-    {
-      "Skattemæssigt hjemsted/Tax residence": "Luxembourg (LU)",
       "ISIN-kode/-Code": "LU2471418801",
       "Navn andelsklasse/Name Shareclass": "BGF World Healthscience Fund X10 USD",
       "LEI-kode/-Code": "549300OHN1ZT4WMEMU83",
@@ -41893,18 +42421,6 @@
       "LEI-kode/-Code": "549300OHN1ZT4WMEMU83",
       "CVR/SE/TIN": "[tom]",
       "Navn afdeling/Name Sub-fund": "BGF World Healthscience Fund",
-      "TIN": "[tom]",
-      "Navn/Name": "BlackRock Global Funds",
-      "Registrerede år/Registered": "2024,2025,2026",
-      "Ikke registrerede år/Deregistered": "2020,2021,2022,2023"
-    },
-    {
-      "Skattemæssigt hjemsted/Tax residence": "Luxembourg (LU)",
-      "ISIN-kode/-Code": "LU2533724519",
-      "Navn andelsklasse/Name Shareclass": "BGF World Financials Fund Class A10 USD",
-      "LEI-kode/-Code": "5493009JGB3XP8H4XV85",
-      "CVR/SE/TIN": "[tom]",
-      "Navn afdeling/Name Sub-fund": "BGF World Financials Fund",
       "TIN": "[tom]",
       "Navn/Name": "BlackRock Global Funds",
       "Registrerede år/Registered": "2024,2025,2026",
@@ -42553,42 +43069,6 @@
       "LEI-kode/-Code": "549300OHN1ZT4WMEMU83",
       "CVR/SE/TIN": "[tom]",
       "Navn afdeling/Name Sub-fund": "BGF World Healthscience Fund",
-      "TIN": "[tom]",
-      "Navn/Name": "BlackRock Global Funds",
-      "Registrerede år/Registered": "2024,2025,2026",
-      "Ikke registrerede år/Deregistered": "2020,2021,2022,2023"
-    },
-    {
-      "Skattemæssigt hjemsted/Tax residence": "Luxembourg (LU)",
-      "ISIN-kode/-Code": "LU2624961392",
-      "Navn andelsklasse/Name Shareclass": "BGF World Financials Fund S2 EUR Hedged",
-      "LEI-kode/-Code": "5493009JGB3XP8H4XV85",
-      "CVR/SE/TIN": "[tom]",
-      "Navn afdeling/Name Sub-fund": "BGF World Financials Fund",
-      "TIN": "[tom]",
-      "Navn/Name": "BlackRock Global Funds",
-      "Registrerede år/Registered": "2024,2025,2026",
-      "Ikke registrerede år/Deregistered": "2020,2021,2022,2023"
-    },
-    {
-      "Skattemæssigt hjemsted/Tax residence": "Luxembourg (LU)",
-      "ISIN-kode/-Code": "LU2624961475",
-      "Navn andelsklasse/Name Shareclass": "BGF World Financials Fund S2 USD",
-      "LEI-kode/-Code": "5493009JGB3XP8H4XV85",
-      "CVR/SE/TIN": "[tom]",
-      "Navn afdeling/Name Sub-fund": "BGF World Financials Fund",
-      "TIN": "[tom]",
-      "Navn/Name": "BlackRock Global Funds",
-      "Registrerede år/Registered": "2024,2025,2026",
-      "Ikke registrerede år/Deregistered": "2020,2021,2022,2023"
-    },
-    {
-      "Skattemæssigt hjemsted/Tax residence": "Luxembourg (LU)",
-      "ISIN-kode/-Code": "LU2624961558",
-      "Navn andelsklasse/Name Shareclass": "BGF World Financials Fund S2 EUR",
-      "LEI-kode/-Code": "5493009JGB3XP8H4XV85",
-      "CVR/SE/TIN": "[tom]",
-      "Navn afdeling/Name Sub-fund": "BGF World Financials Fund",
       "TIN": "[tom]",
       "Navn/Name": "BlackRock Global Funds",
       "Registrerede år/Registered": "2024,2025,2026",
@@ -43349,18 +43829,6 @@
       "Navn/Name": "Nordea 1, SICAV",
       "Registrerede år/Registered": 2024.2025,
       "Ikke registrerede år/Deregistered": "2020,2021,2022,2023,2026"
-    },
-    {
-      "Skattemæssigt hjemsted/Tax residence": "Luxembourg (LU)",
-      "ISIN-kode/-Code": "LU2763539777",
-      "Navn andelsklasse/Name Shareclass": "BGF World Financials Fund Class I2 JPY",
-      "LEI-kode/-Code": "5493009JGB3XP8H4XV85",
-      "CVR/SE/TIN": "[tom]",
-      "Navn afdeling/Name Sub-fund": "BGF World Financials Fund",
-      "TIN": "[tom]",
-      "Navn/Name": "BlackRock Global Funds",
-      "Registrerede år/Registered": "2024,2025,2026",
-      "Ikke registrerede år/Deregistered": "2020,2021,2022,2023"
     },
     {
       "Skattemæssigt hjemsted/Tax residence": "Luxembourg (LU)",
@@ -45001,18 +45469,6 @@
       "LEI-kode/-Code": "549300YCOLJZYUJ2W057",
       "CVR/SE/TIN": "6337171K",
       "Navn afdeling/Name Sub-fund": "iShares Global Timber & Forestry UCITS ETF USD (Dist)",
-      "TIN": "[tom]",
-      "Navn/Name": "[tom]",
-      "Registrerede år/Registered": "2020,2021,2022,2023,2024,2025,2026",
-      "Ikke registrerede år/Deregistered": ""
-    },
-    {
-      "Skattemæssigt hjemsted/Tax residence": "Ireland (IE)",
-      "ISIN-kode/-Code": "IE00B27YCK28",
-      "Navn andelsklasse/Name Shareclass": "iShares MSCI EM Latin America UCITS ETF USD (Dist)",
-      "LEI-kode/-Code": "5493001UV681N6H3E474",
-      "CVR/SE/TIN": "6337171K",
-      "Navn afdeling/Name Sub-fund": "iShares MSCI EM Latin America UCITS ETF USD (Dist)",
       "TIN": "[tom]",
       "Navn/Name": "[tom]",
       "Registrerede år/Registered": "2020,2021,2022,2023,2024,2025,2026",
@@ -47789,18 +48245,6 @@
       "Navn/Name": "[tom]",
       "Registrerede år/Registered": "2020,2021,2022,2023,2024,2025,2026",
       "Ikke registrerede år/Deregistered": ""
-    },
-    {
-      "Skattemæssigt hjemsted/Tax residence": "Ireland (IE)",
-      "ISIN-kode/-Code": "IE00BYPGTJ26",
-      "Navn andelsklasse/Name Shareclass": "WisdomTree UK Equity Income UCITS ETF",
-      "LEI-kode/-Code": "5393003W2LPY6BANN753",
-      "CVR/SE/TIN": "IE9840218R",
-      "Navn afdeling/Name Sub-fund": "WisdomTree Issuer ICAV",
-      "TIN": "[tom]",
-      "Navn/Name": "[tom]",
-      "Registrerede år/Registered": "2022,2023,2024,2025,2026",
-      "Ikke registrerede år/Deregistered": 2020.2021
     },
     {
       "Skattemæssigt hjemsted/Tax residence": "Ireland (IE)",
@@ -70712,30 +71156,6 @@
     },
     {
       "Skattemæssigt hjemsted/Tax residence": "Luxembourg (LU)",
-      "ISIN-kode/-Code": "LU0050381036",
-      "Navn andelsklasse/Name Shareclass": "Wellington US Research Equity Fund USD S Accumulating Unhedged",
-      "LEI-kode/-Code": "[tom]",
-      "CVR/SE/TIN": "[tom]",
-      "Navn afdeling/Name Sub-fund": "Wellington US Research Equity Fund (Wellington Management Funds)",
-      "TIN": "[tom]",
-      "Navn/Name": "[tom]",
-      "Registrerede år/Registered": "2020,2021,2022,2023,2024,2025,2026",
-      "Ikke registrerede år/Deregistered": ""
-    },
-    {
-      "Skattemæssigt hjemsted/Tax residence": "Luxembourg (LU)",
-      "ISIN-kode/-Code": "LU0050381978",
-      "Navn andelsklasse/Name Shareclass": "Wellington US Research Equity Fund USD G Accumulating Unhedged",
-      "LEI-kode/-Code": "[tom]",
-      "CVR/SE/TIN": "[tom]",
-      "Navn afdeling/Name Sub-fund": "Wellington US Research Equity Fund (Wellington Management Funds)",
-      "TIN": "[tom]",
-      "Navn/Name": "[tom]",
-      "Registrerede år/Registered": "2020,2021,2022,2023,2024,2025,2026",
-      "Ikke registrerede år/Deregistered": ""
-    },
-    {
-      "Skattemæssigt hjemsted/Tax residence": "Luxembourg (LU)",
       "ISIN-kode/-Code": "LU0119066131",
       "Navn andelsklasse/Name Shareclass": "JPM US Value A (dist) - USD",
       "LEI-kode/-Code": "false",
@@ -71000,35 +71420,11 @@
     },
     {
       "Skattemæssigt hjemsted/Tax residence": "Luxembourg (LU)",
-      "ISIN-kode/-Code": "LU0412097049",
-      "Navn andelsklasse/Name Shareclass": "Wellington US Research Equity Fund USD D Accumulating Unhedged",
-      "LEI-kode/-Code": "[tom]",
-      "CVR/SE/TIN": "[tom]",
-      "Navn afdeling/Name Sub-fund": "Wellington US Research Equity Fund (Wellington Management Funds)",
-      "TIN": "[tom]",
-      "Navn/Name": "[tom]",
-      "Registrerede år/Registered": "2020,2021,2022,2023,2024,2025,2026",
-      "Ikke registrerede år/Deregistered": ""
-    },
-    {
-      "Skattemæssigt hjemsted/Tax residence": "Luxembourg (LU)",
       "ISIN-kode/-Code": "LU0438015033",
       "Navn andelsklasse/Name Shareclass": "T. Rowe Price Funds SICAV Global Growth Equity Fund Global Growth Equity Fund I (GBP)",
       "LEI-kode/-Code": "549300OHLAV8MCXB2D69",
       "CVR/SE/TIN": "false",
       "Navn afdeling/Name Sub-fund": "T. ROWE PRICE FUNDS SICAV",
-      "TIN": "[tom]",
-      "Navn/Name": "[tom]",
-      "Registrerede år/Registered": "2020,2021,2022,2023,2024,2025,2026",
-      "Ikke registrerede år/Deregistered": ""
-    },
-    {
-      "Skattemæssigt hjemsted/Tax residence": "Luxembourg (LU)",
-      "ISIN-kode/-Code": "LU0456910800",
-      "Navn andelsklasse/Name Shareclass": "Wellington US Research Equity Fund EUR G Accumulating Hedged",
-      "LEI-kode/-Code": "[tom]",
-      "CVR/SE/TIN": "[tom]",
-      "Navn afdeling/Name Sub-fund": "Wellington US Research Equity Fund (Wellington Management Funds)",
       "TIN": "[tom]",
       "Navn/Name": "[tom]",
       "Registrerede år/Registered": "2020,2021,2022,2023,2024,2025,2026",
@@ -71137,18 +71533,6 @@
       "LEI-kode/-Code": "549300OHLAV8MCXB2D69",
       "CVR/SE/TIN": "false",
       "Navn afdeling/Name Sub-fund": "T. ROWE PRICE FUNDS SICAV",
-      "TIN": "[tom]",
-      "Navn/Name": "[tom]",
-      "Registrerede år/Registered": "2020,2021,2022,2023,2024,2025,2026",
-      "Ikke registrerede år/Deregistered": ""
-    },
-    {
-      "Skattemæssigt hjemsted/Tax residence": "Luxembourg (LU)",
-      "ISIN-kode/-Code": "LU0891777665",
-      "Navn andelsklasse/Name Shareclass": "Wellington US Research Equity Fund USD N Accumulating Unhedged",
-      "LEI-kode/-Code": "[tom]",
-      "CVR/SE/TIN": "[tom]",
-      "Navn afdeling/Name Sub-fund": "Wellington US Research Equity Fund (Wellington Management Funds)",
       "TIN": "[tom]",
       "Navn/Name": "[tom]",
       "Registrerede år/Registered": "2020,2021,2022,2023,2024,2025,2026",
@@ -71408,83 +71792,11 @@
     },
     {
       "Skattemæssigt hjemsted/Tax residence": "Luxembourg (LU)",
-      "ISIN-kode/-Code": "LU1223419331",
-      "Navn andelsklasse/Name Shareclass": "Wellington US Research Equity Fund USD N Distributing Unhedged",
-      "LEI-kode/-Code": "[tom]",
-      "CVR/SE/TIN": "[tom]",
-      "Navn afdeling/Name Sub-fund": "Wellington US Research Equity Fund (Wellington Management Funds)",
-      "TIN": "[tom]",
-      "Navn/Name": "[tom]",
-      "Registrerede år/Registered": "2020,2021,2022,2023,2024,2025,2026",
-      "Ikke registrerede år/Deregistered": ""
-    },
-    {
-      "Skattemæssigt hjemsted/Tax residence": "Luxembourg (LU)",
       "ISIN-kode/-Code": "LU1319833957",
       "Navn andelsklasse/Name Shareclass": "T. Rowe Price Funds SICAV US Large Cap Growth Equity Fund US Large Cap Growth Equity Fund Ih (EUR)",
       "LEI-kode/-Code": "549300OHLAV8MCXB2D69",
       "CVR/SE/TIN": "false",
       "Navn afdeling/Name Sub-fund": "T. ROWE PRICE FUNDS SICAV",
-      "TIN": "[tom]",
-      "Navn/Name": "[tom]",
-      "Registrerede år/Registered": "2020,2021,2022,2023,2024,2025,2026",
-      "Ikke registrerede år/Deregistered": ""
-    },
-    {
-      "Skattemæssigt hjemsted/Tax residence": "Luxembourg (LU)",
-      "ISIN-kode/-Code": "LU1329466632",
-      "Navn andelsklasse/Name Shareclass": "Wellington US Research Equity Fund EUR D Accumulating Hedged",
-      "LEI-kode/-Code": "[tom]",
-      "CVR/SE/TIN": "[tom]",
-      "Navn afdeling/Name Sub-fund": "Wellington US Research Equity Fund (Wellington Management Funds)",
-      "TIN": "[tom]",
-      "Navn/Name": "[tom]",
-      "Registrerede år/Registered": "2020,2021,2022,2023,2024,2025,2026",
-      "Ikke registrerede år/Deregistered": ""
-    },
-    {
-      "Skattemæssigt hjemsted/Tax residence": "Luxembourg (LU)",
-      "ISIN-kode/-Code": "LU1329466715",
-      "Navn andelsklasse/Name Shareclass": "Wellington US Research Equity Fund EUR D Accumulating Unhedged",
-      "LEI-kode/-Code": "[tom]",
-      "CVR/SE/TIN": "[tom]",
-      "Navn afdeling/Name Sub-fund": "Wellington US Research Equity Fund (Wellington Management Funds)",
-      "TIN": "[tom]",
-      "Navn/Name": "[tom]",
-      "Registrerede år/Registered": "2020,2021,2022,2023,2024,2025,2026",
-      "Ikke registrerede år/Deregistered": ""
-    },
-    {
-      "Skattemæssigt hjemsted/Tax residence": "Luxembourg (LU)",
-      "ISIN-kode/-Code": "LU1329466806",
-      "Navn andelsklasse/Name Shareclass": "Wellington US Research Equity Fund EUR S Accumulating Hedged",
-      "LEI-kode/-Code": "[tom]",
-      "CVR/SE/TIN": "[tom]",
-      "Navn afdeling/Name Sub-fund": "Wellington US Research Equity Fund (Wellington Management Funds)",
-      "TIN": "[tom]",
-      "Navn/Name": "[tom]",
-      "Registrerede år/Registered": "2020,2021,2022,2023,2024,2025,2026",
-      "Ikke registrerede år/Deregistered": ""
-    },
-    {
-      "Skattemæssigt hjemsted/Tax residence": "Luxembourg (LU)",
-      "ISIN-kode/-Code": "LU1329466988",
-      "Navn andelsklasse/Name Shareclass": "Wellington US Research Equity Fund EUR S Accumulating Unhedged",
-      "LEI-kode/-Code": "[tom]",
-      "CVR/SE/TIN": "[tom]",
-      "Navn afdeling/Name Sub-fund": "Wellington US Research Equity Fund (Wellington Management Funds)",
-      "TIN": "[tom]",
-      "Navn/Name": "[tom]",
-      "Registrerede år/Registered": "2020,2021,2022,2023,2024,2025,2026",
-      "Ikke registrerede år/Deregistered": ""
-    },
-    {
-      "Skattemæssigt hjemsted/Tax residence": "Luxembourg (LU)",
-      "ISIN-kode/-Code": "LU1329467101",
-      "Navn andelsklasse/Name Shareclass": "Wellington US Research Equity Fund GBP N Distributing Unhedged",
-      "LEI-kode/-Code": "[tom]",
-      "CVR/SE/TIN": "[tom]",
-      "Navn afdeling/Name Sub-fund": "Wellington US Research Equity Fund (Wellington Management Funds)",
       "TIN": "[tom]",
       "Navn/Name": "[tom]",
       "Registrerede år/Registered": "2020,2021,2022,2023,2024,2025,2026",
@@ -71557,42 +71869,6 @@
       "LEI-kode/-Code": "549300OHLAV8MCXB2D69",
       "CVR/SE/TIN": "false",
       "Navn afdeling/Name Sub-fund": "T. ROWE PRICE FUNDS SICAV",
-      "TIN": "[tom]",
-      "Navn/Name": "[tom]",
-      "Registrerede år/Registered": "2020,2021,2022,2023,2024,2025,2026",
-      "Ikke registrerede år/Deregistered": ""
-    },
-    {
-      "Skattemæssigt hjemsted/Tax residence": "Luxembourg (LU)",
-      "ISIN-kode/-Code": "LU1508451900",
-      "Navn andelsklasse/Name Shareclass": "Wellington US Research Equity Fund EUR N Accumulating Hedged",
-      "LEI-kode/-Code": "[tom]",
-      "CVR/SE/TIN": "[tom]",
-      "Navn afdeling/Name Sub-fund": "Wellington US Research Equity Fund (Wellington Management Funds)",
-      "TIN": "[tom]",
-      "Navn/Name": "[tom]",
-      "Registrerede år/Registered": "2020,2021,2022,2023,2024,2025,2026",
-      "Ikke registrerede år/Deregistered": ""
-    },
-    {
-      "Skattemæssigt hjemsted/Tax residence": "Luxembourg (LU)",
-      "ISIN-kode/-Code": "LU1512743821",
-      "Navn andelsklasse/Name Shareclass": "Wellington US Research Equity Fund GBP S Accumulating Unhedged",
-      "LEI-kode/-Code": "[tom]",
-      "CVR/SE/TIN": "[tom]",
-      "Navn afdeling/Name Sub-fund": "Wellington US Research Equity Fund (Wellington Management Funds)",
-      "TIN": "[tom]",
-      "Navn/Name": "[tom]",
-      "Registrerede år/Registered": "2020,2021,2022,2023,2024,2025,2026",
-      "Ikke registrerede år/Deregistered": ""
-    },
-    {
-      "Skattemæssigt hjemsted/Tax residence": "Luxembourg (LU)",
-      "ISIN-kode/-Code": "LU1549269337",
-      "Navn andelsklasse/Name Shareclass": "Wellington US Research Equity Fund USD SP Accumulating Unhedged",
-      "LEI-kode/-Code": "[tom]",
-      "CVR/SE/TIN": "[tom]",
-      "Navn afdeling/Name Sub-fund": "Wellington US Research Equity Fund (Wellington Management Funds)",
       "TIN": "[tom]",
       "Navn/Name": "[tom]",
       "Registrerede år/Registered": "2020,2021,2022,2023,2024,2025,2026",
@@ -71869,18 +72145,6 @@
       "LEI-kode/-Code": "549300OHLAV8MCXB2D69",
       "CVR/SE/TIN": "false",
       "Navn afdeling/Name Sub-fund": "T. ROWE PRICE FUNDS SICAV",
-      "TIN": "[tom]",
-      "Navn/Name": "[tom]",
-      "Registrerede år/Registered": "2020,2021,2022,2023,2024,2025,2026",
-      "Ikke registrerede år/Deregistered": ""
-    },
-    {
-      "Skattemæssigt hjemsted/Tax residence": "Luxembourg (LU)",
-      "ISIN-kode/-Code": "LU1687454352",
-      "Navn andelsklasse/Name Shareclass": "Wellington US Research Equity Fund EUR N Accumulating Unhedged",
-      "LEI-kode/-Code": "[tom]",
-      "CVR/SE/TIN": "[tom]",
-      "Navn afdeling/Name Sub-fund": "Wellington US Research Equity Fund (Wellington Management Funds)",
       "TIN": "[tom]",
       "Navn/Name": "[tom]",
       "Registrerede år/Registered": "2020,2021,2022,2023,2024,2025,2026",
@@ -72368,18 +72632,6 @@
     },
     {
       "Skattemæssigt hjemsted/Tax residence": "Luxembourg (LU)",
-      "ISIN-kode/-Code": "LU1873137084",
-      "Navn andelsklasse/Name Shareclass": "Wellington US Research Equity Fund GBP T Accumulating Unhedged",
-      "LEI-kode/-Code": "[tom]",
-      "CVR/SE/TIN": "[tom]",
-      "Navn afdeling/Name Sub-fund": "Wellington US Research Equity Fund (Wellington Management Funds)",
-      "TIN": "[tom]",
-      "Navn/Name": "[tom]",
-      "Registrerede år/Registered": "2020,2021,2022,2023,2024,2025,2026",
-      "Ikke registrerede år/Deregistered": ""
-    },
-    {
-      "Skattemæssigt hjemsted/Tax residence": "Luxembourg (LU)",
       "ISIN-kode/-Code": "LU1877949435",
       "Navn andelsklasse/Name Shareclass": "Wellington Emerging Markets Research Equity Fund CAD S Distributing Unhedged",
       "LEI-kode/-Code": "[tom]",
@@ -72421,18 +72673,6 @@
       "LEI-kode/-Code": "549300OHLAV8MCXB2D69",
       "CVR/SE/TIN": "false",
       "Navn afdeling/Name Sub-fund": "T. ROWE PRICE FUNDS SICAV",
-      "TIN": "[tom]",
-      "Navn/Name": "[tom]",
-      "Registrerede år/Registered": "2020,2021,2022,2023,2024,2025,2026",
-      "Ikke registrerede år/Deregistered": ""
-    },
-    {
-      "Skattemæssigt hjemsted/Tax residence": "Luxembourg (LU)",
-      "ISIN-kode/-Code": "LU1912699268",
-      "Navn andelsklasse/Name Shareclass": "Wellington US Research Equity Fund GBP N Accumulating Unhedged",
-      "LEI-kode/-Code": "[tom]",
-      "CVR/SE/TIN": "[tom]",
-      "Navn afdeling/Name Sub-fund": "Wellington US Research Equity Fund (Wellington Management Funds)",
       "TIN": "[tom]",
       "Navn/Name": "[tom]",
       "Registrerede år/Registered": "2020,2021,2022,2023,2024,2025,2026",
